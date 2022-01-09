@@ -57,15 +57,11 @@ Achei que poderíamos tentar e nos divertir juntos. ” E assim nasceu este proj
 <h2 align="center"><em>Description project 📝</em></h2>
 
 ```
-* 본 프로젝트는 사용자의 심리 유형을 파악하기 위해 12개의 문항과 2개의 응답이 제공됩니다.
-
-* 사용자가 선택한 응답에 따라 점수를 산정합니다.
-
-* 모든 설문이 끝나면, 점수에 따라 MBTI 유형을 산출하고 유형별 특징을 보여줍니다.
-
-* 다시하기 버튼이 제공되어, 사용자가 원한다면 테스트를 다시 수행하는 기능을 제공합니다.
-
-* 공유하기 기능이 제공되어, 내가 한 테스트 결과를 카카오톡, 페이스북, 트위터 등에 공유할 수 있습니다.
+* Neste projeto, 12 perguntas e 2 respostas são fornecidas para entender o tipo psicológico do usuário.
+* As pontuações são calculadas com base nas respostas selecionadas pelo usuário.
+* Quando todos os questionários são preenchidos, o tipo de MBTI é calculado de acordo com a pontuação e as características de cada tipo são mostradas.
+* Um botão de refazer é fornecido, dando ao usuário a capacidade de executar novamente o teste, se desejar.
+* Uma função de compartilhamento é fornecida, para que você possa compartilhar os resultados do seu teste no KakaoTalk, Facebook, Twitter, etc.
 ```
 
 <h2 align="center"><em>ScreenShots📸</em></h2>
