@@ -1,6 +1,6 @@
-<h2 align="center"><em>Teste MBTI 📌</em></h2>
+<h2 align="center"><em>Apoio no Trabalho de Pos/ Artigo Cientifico com MBTI 📌</em></h2>
 
-<h2 align="center"><em>What's MBTI❓</em></h2>
+<h2 align="center"><em>O que podemos aprender com MBTI❓</em></h2>
 
 ```
 Por meio de perguntas de autorrelato que os indivíduos podem facilmente responder, cada indivíduo encontra sua tendência preferida ao reconhecer e julgar,
@@ -10,7 +10,7 @@ Para entender como essas tendências de preferência afetam o comportamento huma
 
 <br>
 
-## [Porque um teste](#)
+## [Informacoes Adicionais](#)
 - MBTI Um serviço da web que analisa tipos e informa sobre “personagens semelhantes a mim” e “3 filmes que eu recomendo”.
 <br>
 <img width="1000" src="https://cdn.glitch.global/cff7a94b-2817-41cf-ae0e-cff4dc96df48/138634-realidade-aumentada-e-realidade-virtual-quais-sao-as-diferencas.jpg?v=1641747829114">
