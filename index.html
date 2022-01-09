@@ -13,7 +13,8 @@
     <script src="src/main.js" defer></script>
 
 
-    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    <script src="//cdn.rawgit.com/donmccurdy/aframe-extras/v4.1.1/dist/aframe-extras.min.js"></script>
     <script src="https://supereggbert.github.io/aframe-htmlembed-component/dist/build.js"></script>
 
     <link rel="stylesheet" href="style.css">
@@ -41,6 +42,15 @@
                 src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/Tipologia%20de%20Myers-Briggs%20%E2%80%93%20Wikip%C3%A9dia%2C%20a%20enciclop%C3%A9dia%20livre%20(2).png?v=1641760312536">
 
         </a-assets>
+
+        <a-entity id="rig" movement-controls="fly: true; speed: 0.1">
+            <a-entity camera position="0 1.6 0" look-controls></a-entity>
+        </a-entity>
+
+        <a-entity id='env'>
+            <a-plane wireframe='true' width='10' height='10' segments-height='10' segments-width='10' rotation='90 0 0' color="#fff"></a-plane>
+          </a-entity>
+
         <a-sky radius="50" src="#sky"></a-sky>
 
         <a-curvedimage position="-0.008 3.268 0" rotation="-22.793 141.428 17.188" scale="1 2.5 1" src="#my-image"
@@ -53,7 +63,7 @@
             animation__yoyo2="property: position; dir: alternate; dur: 5000;easing: easeInSine; loop: true; to: 2.423 3.5 1.631">
         </a-entity>
 
-        <a-entity position="-7.269 6.594 -1.681" scale="5 5 5"
+        <a-entity position="-7.269 6.594 -1.681" scale="9 9 9"
             geometry="primitive:box;height: 0.85; width: 0.85;depth:0.85"
             material="src: url(https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/7e52a1363527fded54881fcc51510309%5B1%5D.jpg?v=1641757480075); opacity: 1; transparent: true;side: double"
             animation="property: rotation; to: 360 -360 360; loop: true; dur: 79000; easing:linear;"></a-entity>
@@ -61,7 +71,7 @@
         <a-entity position="-3.414 2.021 -5.374" scale="1 1 1"
             geometry="primitive:box;height: 1; width: 1.50;depth:1.50"
             material="src: url(https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/14650446_1113072235444672_6125852939153834703_n.jpg?v=1641760038897);color: #7C7C7C; opacity: 1; transparent: true;side: double"
-            animation="property: rotation; to: 0 360 0; loop: true; dur: 75000; easing:linear;"></a-entity>
+            animation="property: rotation; to: 0 360 0; loop: true; dur: 71000; easing:linear;"></a-entity>
 
 
 
@@ -73,21 +83,26 @@
             <div class="mbti__contents">
                 <!-- start page section -->
                 <div class="mbti__start">
-                    <h1>Apoio no <i>Trabalho de POS / Artigo Cientifico</i> com <font color="red">MBTI</font></h1>
+                    <h1>Apoio no <i>Trabalho de POS / Artigo Cientifico</i> com <font color="red">MBTI</font>
+                    </h1>
                     <img class="main__img" src="img/main.jpg" alt="main image">
                     </br>
                     <h1> Faça seu um teste!</h1><br />
                     <h3> Encontre um tipo de Personalidades semelhante ao seu! </h3>
-         
+
                     <button class="mbti__startBtn">Comece Aqui!🚀</button>
                 </div>
                 <!-- question section -->
                 <div class="mbti__question --hide">
                     <h2 class="mbti__title" style="
                     color: #fff;
-                ">Questoes - POS/<font color="red">MBTI</h2></font></h2>
-              
-                    <h5><font color="white"></font><u>Tipologia pela Myers-Briggs.</u></font></h5>
+                ">Questoes - POS/<font color="red">MBTI</h2>
+                    </font>
+                    </h2>
+
+                    <h5>
+                        <font color="white"></font><u>Tipologia pela Myers-Briggs.</u></font>
+                    </h5>
 
                     <h3 class="mbti__asking">Perguntas</h3>
                     <div class="mbti__skill__bar">
@@ -104,7 +119,7 @@
                 <div class="mbti__result --hide">
                     <div class="mbti__result__content"></div>
                     <button class="result__replay">다시하기 <i class="fas fa-undo-alt"></i></button>
-          
+
                 </div>
 
             </div>
