@@ -15,8 +15,10 @@ Para entender como essas tendências de preferência afetam o comportamento huma
 <br>
 <img width="1000" src="https://cdn.glitch.global/cff7a94b-2817-41cf-ae0e-cff4dc96df48/138634-realidade-aumentada-e-realidade-virtual-quais-sao-as-diferencas.jpg?v=1641747829114">
 <br>
-## Produção Autoral | Alunos: Mespper & Fox
-[![teste](https://www.elementa.com.br/wp-content/uploads/2018/02/docs-logo.jpg "teste")](https://docs.google.com/document/d/1XkQhADG-CBpq9LwOsm4LKhu7_YLiZ2pmXZnRJ-Hp3Bc/edit?usp=sharing "teste")
+## Produção Autoral | Alunos: Mespper & Fox:
+
+[![](https://www.elementa.com.br/wp-content/uploads/2018/02/docs-logo.jpg)](https://docs.google.com/document/d/1XkQhADG-CBpq9LwOsm4LKhu7_YLiZ2pmXZnRJ-Hp3Bc/edit?usp=sharing "Doc")
+
 <br>
 
 ## Github Repository
