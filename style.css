@@ -7,12 +7,12 @@
   --result-width: 300px;
   --button-width: 400px;
   --main-size: 400px;
-  --color-yellow: #f4cc50;
+  --color-yellow: #059492;
   --color-red: #e66063;
   --color-white: #ffffff;
   --color-blue: #0063dc;
   --color-orange: #fd7e14;
-  --color-green: #4da953;
+  --color-green: #974da9;
   --color-light-white: #eeeeee;
   --font-large: 30px;
   --font-medium: 22px;
@@ -211,7 +211,7 @@ span {
   color: var(--color-light-white);
 } */
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   :root {
     --contents-width: 350px;
     --contents-height: 630px;
@@ -227,7 +227,7 @@ span {
     --result-width: 250px;
     --button-width: 300px;
     --padding-size: 8px;
-  }
+  } */
 
   .result__title {
     padding: 4px 2px;

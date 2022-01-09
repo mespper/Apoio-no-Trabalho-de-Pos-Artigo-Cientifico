@@ -1,77 +1,118 @@
 <!DOCTYPE html>
-<html lang="ko">
-<head> 
+<html lang="pt">
+
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="MBTI Test">
-    <meta name="author" content="park minjung">
+    <meta name="description" content="MBTI Test - Trabalho POS">
     <link rel="icon" type="image/png" href="img/favicon.png">
-    
-    <!-- <script src="https://kit.fontawesome.com/18cb8c340a.js" crossorigin="anonymous"></script> -->
+
+
 
     <script src="src/main.js" defer></script>
-    
+
 
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
     <script src="https://supereggbert.github.io/aframe-htmlembed-component/dist/build.js"></script>
 
-    <!-- <link rel="stylesheet" href="style.css"> -->
-    <title>짱구 MBTI 테스트</title>
+    <link rel="stylesheet" href="style.css">
+    <title>Apoio no Trabalho de POS / Artigo Cientifico - Mespper & Fox</title>
 </head>
+
 <body>
-    <a-scene  cursor="rayOrigin: mouse">
+    <a-scene cursor="rayOrigin: mouse">
 
         <a-assets>
-                <!--         <a-asset-item
+            <!--         <a-asset-item
                   id="expo_center"
                   src="https://cdn.glitch.com/d8995d24-368f-4972-bb0b-3c3dbf554e2f%2Fexpo_center.glb?v=1617632856209"
                   crossorigin="anonymous"
                   response-type="arraybuffer"
                 ></a-asset-item> -->
-        
-                <img
-                  id="sky"
-                  crossorigin="anonymous"
-                  src="https://cdn.glitch.com/cff7a94b-2817-41cf-ae0e-cff4dc96df48%2Fcff7a94b-2817-41cf-ae0e-cff4dc96df48%252FPanorama3.webp?v=1632787115859"
-                />
-              </a-assets>
-              <a-sky radius="50" src="#sky"></a-sky>
-              
-        <a-entity position="0 1.6 -1" htmlembed>
 
-    <div class="mbti__contents">
-        <!-- start page section -->
-        <div class="mbti__start">
-            <h1>나를 닮은 짱구 캐릭터 유형은?😶</h1>
-            <img class="main__img" src="img/main.jpg" alt="main image">
-            <h3>테스트를 통해<br />나와 비슷한 짱구 캐릭터 유형을 찾아보세요!</h3>
-            <button class="mbti__startBtn">Let`s start!🚀</button>
-        </div>
-        <!-- question section -->
-        <div class="mbti__question --hide">
-            <h2 class="mbti__title">✨ Question ✨</h2>
-            <h3 class="mbti__asking">질문</h3>
-            <div class="mbti__skill__bar">
-                <div class="skill__value"></div>
+            <img id="sky" crossorigin="anonymous"
+                src="https://live.staticflickr.com//2927//32919748396_ac001b3372_k.jpg" />
+
+            <img id="my-image"
+                src="https://cdn.glitch.global/cff7a94b-2817-41cf-ae0e-cff4dc96df48/138634-realidade-aumentada-e-realidade-virtual-quais-sao-as-diferencas.jpg?v=164174782911">
+
+            <img id="wiki"
+                src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/Tipologia%20de%20Myers-Briggs%20%E2%80%93%20Wikip%C3%A9dia%2C%20a%20enciclop%C3%A9dia%20livre%20(2).png?v=1641760312536">
+
+        </a-assets>
+        <a-sky radius="50" src="#sky"></a-sky>
+
+        <a-curvedimage position="-0.008 3.268 0" rotation="-22.793 141.428 17.188" scale="1 2.5 1" src="#my-image"
+            material="" geometry="thetaLength: 70"></a-curvedimage>
+
+
+        <a-entity position="2.423 4.162 1.631" scale="3 3 3"
+            geometry="primitive:box;height: 0.85; width: 0.85;depth:0.85"
+            material="src: url(https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/logoAnima%5B1%5D.png?v=1641757236625); opacity: 1; transparent: true;side: double"
+            animation__yoyo2="property: position; dir: alternate; dur: 5000;easing: easeInSine; loop: true; to: 2.423 3.5 1.631">
+        </a-entity>
+
+        <a-entity position="-7.269 6.594 -1.681" scale="5 5 5"
+            geometry="primitive:box;height: 0.85; width: 0.85;depth:0.85"
+            material="src: url(https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/7e52a1363527fded54881fcc51510309%5B1%5D.jpg?v=1641757480075); opacity: 1; transparent: true;side: double"
+            animation="property: rotation; to: 360 -360 360; loop: true; dur: 79000; easing:linear;"></a-entity>
+
+        <a-entity position="-3.414 2.021 -5.374" scale="1 1 1"
+            geometry="primitive:box;height: 1; width: 1.50;depth:1.50"
+            material="src: url(https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/14650446_1113072235444672_6125852939153834703_n.jpg?v=1641760038897);color: #7C7C7C; opacity: 1; transparent: true;side: double"
+            animation="property: rotation; to: 0 360 0; loop: true; dur: 75000; easing:linear;"></a-entity>
+
+
+
+        <a-image src="#wiki" position="2.668 1.536 -2.089" rotation="0 -20.374 0" material=""
+            geometry="height: 5; width: 2"></a-image>
+
+        <a-entity position="0 1.437 -2.075" htmlembed>
+
+            <div class="mbti__contents">
+                <!-- start page section -->
+                <div class="mbti__start">
+                    <h1>Apoio no <i>Trabalho de POS / Artigo Cientifico</i> com <font color="red">MBTI</font></h1>
+                    <img class="main__img" src="img/main.jpg" alt="main image">
+                    </br>
+                    <h1> Faça seu um teste!</h1><br />
+                    <h3> Encontre um tipo de Personalidades semelhante ao seu! </h3>
+         
+                    <button class="mbti__startBtn">Comece Aqui!🚀</button>
+                </div>
+                <!-- question section -->
+                <div class="mbti__question --hide">
+                    <h2 class="mbti__title" style="
+                    color: #fff;
+                ">Questoes - POS/<font color="red">MBTI</h2></font></h2>
+              
+                    <h5><font color="white"></font><u>Tipologia pela Myers-Briggs.</u></font></h5>
+
+                    <h3 class="mbti__asking">Perguntas</h3>
+                    <div class="mbti__skill__bar">
+                        <div class="skill__value"></div>
+                    </div>
+                    <img class="mbti__testImg">
+                    </br>
+                    <button id="A" class="mbti__selectBtn"></button>
+                    </br>
+                    </br>
+                    <button id="B" class="mbti__selectBtn"></button>
+                    <input type="hidden" id="type" data-value="EI">
+                </div>
+                <div class="mbti__result --hide">
+                    <div class="mbti__result__content"></div>
+                    <button class="result__replay">다시하기 <i class="fas fa-undo-alt"></i></button>
+          
+                </div>
+
             </div>
-            <img class="mbti__testImg">
-            <button id="A" class="mbti__selectBtn"></button>
-            <button id="B" class="mbti__selectBtn"></button>
-            <input type="hidden" id="type" data-value="EI">
-        </div>
-        <div class="mbti__result --hide">
-            <div class="mbti__result__content"></div>
-            <button class="result__replay">다시하기 <i class="fas fa-undo-alt"></i></button>
-            <!-- <div class="addthis_inline_share_toolbox_zgfs"></div> -->
-        </div>
-        <!-- <span class="mbti__copyright">Copyright 2021 Park minjung All rights reserved.</span> -->
-    </div>
-    
-    <!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-60f523fe720f036d"></script> -->
-</a-entity>
-</a-scene>
+
+        </a-entity>
+    </a-scene>
 
 
 </body>
+
 </html>

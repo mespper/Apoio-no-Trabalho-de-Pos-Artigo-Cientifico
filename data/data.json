@@ -2,7 +2,7 @@
     "questions" : [
         {
             "number":" 1",
-            "question": "T1. Hoje é fim de semana ..! Se for eu❓",
+            "question": "<font color = \"red\">Questao 1:</font></br>Hoje é fim de semana ..! Se for eu❓",
             "type": "EI",
             "A": "Saia e encontre amigos.🏃‍♂️",
             "B": "Gosto do fim de semana vendo máscaras de ação em casa.🏠",
@@ -10,7 +10,7 @@
         },
         {
             "number":" 2",
-            "question": "Q2. Changoo roubou todo o Chocobi. Neste momento, eu❓",
+            "question": "<font color = \"red\">Questao 2:</font></br>Changoo roubou todo o Chocobi. Neste momento, eu❓",
             "type": "EI",
             "A": "Devolva agora! Vou pedir ao jjanggu.😡",
             "B": "Acho que Changoo realmente queria comê-lo .. Eu apenas entendo e aguento.",
@@ -18,7 +18,7 @@
         },
         {
             "number":" 3",
-            "question": "P3. Já se passaram 6 horas desde que joguei com meus amigos da Equipe de Segurança do Cotilédone. Agora estou ❓",
+            "question": "<font color = \"red\">Questao 3:</font></br>Já se passaram 6 horas desde que joguei com meus amigos da Equipe de Segurança do Cotilédone. Agora estou ❓",
             "type": "EI",
             "A": "Agora com o que vamos brincar? 🤩",
             "B": "Eu só quero ir para casa ... 😑",
@@ -26,7 +26,7 @@
         },
         {
             "number":" 4",
-            "question": "Q4. É hora de brincar no jardim de infância de Cotyledon! O que devo jogar❓",
+            "question": "<font color = \"red\">Questao 4:</font></br>É hora de brincar no jardim de infância de Cotyledon! O que devo jogar❓",
             "type": "EI",
             "A": "Rapazes, fiquem juntos! 😆 Quero ir ao parquinho com os meus amigos comer a terra! 🏃",
             "B": "Oh, construir blocos deve ser divertido! 🤔 Eu tenho que brincar enquanto construo blocos sozinho! 🧱",
@@ -34,7 +34,7 @@
         },
         {
             "number":" 5",
-            "question": "P5. Estou voltando da vizinhança da aldeia cotilédone.",
+            "question": "<font color = \"red\">Questao 5:</font></br>Estou voltando da vizinhança da aldeia cotilédone.",
             "type": "EI",
             "A": "Eu falei demais… 😦 Sinto um pouco por ter falado demais.",
             "B": "Oh, eu deveria ter dito isso antes ...",
@@ -42,7 +42,7 @@
         },
         {
             "number": "6",
-            "question": "Q6. Vi a barra de chocolate sobre a mesa. O que pensei neste momento❓",
+            "question": "<font color = \"red\">Questao 6:</font></br>Vi a barra de chocolate sobre a mesa. O que pensei neste momento❓",
             "type": "SN",
             "A": "Chocobi é doce, crocante e delicioso!",
             "B": "Oh! Isso é o que Changoo gosta .. Isso me lembra dela. 🤔",
@@ -50,7 +50,7 @@
         },
         {
             "number": "7",
-            "question": "Q7. À medida que vou pela estrada, vejo uma nova estrada. Neste momento, eu❓",
+            "question": "<font color = \"red\">Questao 7:</font></br>À medida que vou pela estrada, vejo uma nova estrada. Neste momento, eu❓",
             "type": "SN",
             "A": "Gosto da estrada familiar! Estou voltando para o caminho que costumava fazer.🙂",
             "B": "Oh, é uma nova estrada? Eu quero ir! Vamos por uma nova estrada.😎",
@@ -58,7 +58,7 @@
         },
                 {
             "number": "8",
-            "question": "Q8. Vi uma pessoa suspeita na aldeia ..! Quando expliquei como impressionar o policial, eu❓",
+            "question": "<font color = \"red\">Questao 8:</font></br>Vi uma pessoa suspeita na aldeia ..! Quando expliquei como impressionar o policial, eu❓",
             "type": "SN",
             "A": "Eu tinha cerca de 180 cm de altura e estava usando uma máscara! 😲",
             "B": "Me senti um mau vilão! 😦",
@@ -66,7 +66,7 @@
         },
         {
             "number":" 9",
-            "question": "Q9. Hoje é o tão esperado bazar do Jardim de Infância Cotyledon! Vou abrir uma barraca de comida. Que type de comida devo fazer❓😍",
+            "question": "<font color = \"red\">Questao 9:</font></br>Hoje é o tão esperado bazar do Jardim de Infância Cotyledon! Vou abrir uma barraca de comida. Que type de comida devo fazer❓😍",
             "type": "SN",
             "A": "No ano passado, hambúrgueres foram um sucesso, então este ano é incondicional! O menu deste ano também é hambúrgueres! 🍔",
             "B": "Hmm .. Os hambúrgueres estavam bons no ano passado .. 🤔 Vamos experimentar Rosé Tteokbokki este ano! 👨‍🍳",
@@ -74,7 +74,7 @@
         },
         {
             "number": "10",
-            "question": "Q10. Estou entediado comigo mesmo, então quero assistir TV. O canal que fez meu controle remoto parar neste momento é ❓📺",
+            "question": "<font color = \"red\">Questao 10:</font></br>Estou entediado comigo mesmo, então quero assistir TV. O canal que fez meu controle remoto parar neste momento é ❓📺",
             "type": "SN",
             "A": "Documentário Realistic 100% Egyptian Civilization🕵️‍♀️",
             "B": "E se alienígenas invadirem a Terra? 👽 Filme de ficção científica🛸",
@@ -82,7 +82,7 @@
         },
         {
             "number": "11",
-            "question": "Q11. Proibi-lhe de sair, mas ela continua a implorar para que a deixe ir. Neste momento, eu❓",
+            "question": "<font color = \"red\">Questao 11:</font></br>Proibi-lhe de sair, mas ela continua a implorar para que a deixe ir. Neste momento, eu❓",
             "type": "TF",
             "A": "Absolutamente não! Não está bem! 😠 Recuse com firmeza.",
             "B": "Meu coração está fraco e eu digo, 'Sim ... só desta vez!' Me perdoe.🤫 ",
@@ -90,7 +90,7 @@
         },
                 {
             "number": "12",
-            "question": "Q12. Hoje é o dia de esportes do Cotyledon Kindergarten. I ❓",
+            "question": "<font color = \"red\">Questao 12:</font></br>Hoje é o dia de esportes do Cotyledon Kindergarten. I ❓",
             "type": "TF",
             "A": "Vamos competir de forma justa! 🔥",
             "B": "Vamos unir forças e vencer juntos! 🌟",
@@ -98,7 +98,7 @@
         },
                 {
             "number": "13",
-            "question": "Q13. Meu horário favorito no jardim de infância de cotilédones ❓",
+            "question": "<font color = \"red\">Questao 13:</font></br>Meu horário favorito no jardim de infância de cotilédones ❓",
             "type": "TF",
             "A": "Aula de matemática📚",
             "B": "Tempo da arte🎨",
@@ -106,7 +106,7 @@
         },
         {
             "number": "14",
-            "question": "Q14. Hoje de novo ... Cheolsu e Jjanggu estão lutando.",
+            "question": "<font color = \"red\">Questao 14:</font></br>Hoje de novo ... Cheolsu e Jjanggu estão lutando.",
             "type": "TF",
             "A": "Chul-soo teve que ir cedo hoje. Mas, Chul-su está atrasado porque escondeu a bolsa, então eles estão brigando 🤔",
             "B": "Huh .. Cheol-su disse que tinha que ir cedo hoje, mas ele escondeu a bolsa .. Cheol-su deve ter ficado muito triste e bravo ..🙄",
@@ -114,7 +114,7 @@
         },
         {
             "number": "15",
-            "question": "Q15. Somos a Equipe de Segurança do Cotyledon Village! Vamos formar os Cotyledon Rangers. Neste momento, a função que meus amigos recomendaram porque achei que seria adequado para mim❓",
+            "question": "<font color = \"red\">Questao 15:</font></br>Somos a Equipe de Segurança do Cotyledon Village! Vamos formar os Cotyledon Rangers. Neste momento, a função que meus amigos recomendaram porque achei que seria adequado para mim❓",
             "type": "TF",
             "A": "Porque você é racional e carismático, que tal Blue? 💙",
             "B": "Que tal rosa porque você é caloroso e carinhoso? 💗",
@@ -122,7 +122,7 @@
         },
                 {
             "number": "16",
-            "question": "Q16. Sou um albino gordo..😥 Preciso fazer dieta. Como faço dieta ❓",
+            "question": "<font color = \"red\">Questao 16:</font></br>Sou um albino gordo..😥 Preciso fazer dieta. Como faço dieta ❓",
             "type": "JP",
             "A": "Quanto você come .. Quantas horas você se exercita? Faça um plano. 🤔",
             "B": "Vamos começar! Vamos sair e correr.🐾",
@@ -130,7 +130,7 @@
         },
         {
             "number": "17",
-            "question": "Q17. Há uma nova regra no jardim de infância do Cotyledon Village. No momento, eu ❓",
+            "question": "<font color = \"red\">Questao 17:</font></br>Há uma nova regra no jardim de infância do Cotyledon Village. No momento, eu ❓",
             "type": "JP",
             "A": "As regras são para o nosso jardim de infância! Temos que segui-las 😊",
             "B": "Odeio regras! É desagradável e frustrante! 😑",
@@ -138,7 +138,7 @@
         },
         {
             "number": "18",
-            "question": "Q18. Vim ao zoológico para fazer um piquenique no jardim de infância de Cotyledon Village. Eu ❓",
+            "question": "<font color = \"red\">Questao 18:</font></br>Vim ao zoológico para fazer um piquenique no jardim de infância de Cotyledon Village. Eu ❓",
             "type": "JP",
             "A": "Observe o mapa com atenção e pense onde ir se divertir. 🤔",
             "B": "Até onde seus pés alcançam! Primeiro, vamos a um lugar onde você possa sentir.🏃‍♂️",
@@ -146,7 +146,7 @@
         },
         {
             "number": "19",
-            "question": "Q19. Ei, é verão! 🤩 Vou passar as férias de verão no verão. Atualmente, meu estilo de viagem é❓",
+            "question": "<font color = \"red\">Questao 19:</font></br> Ei, é verão! 🤩 Vou passar as férias de verão no verão. Atualmente, meu estilo de viagem é❓",
             "type": "JP",
             "A": "A viagem deve ser planejada e sistemática! Gosto de viagens planejadas! 💘",
             "B": "Não é divertido viajar espontaneamente sem um plano? Gosto de viagens flexíveis! 💕",
@@ -154,7 +154,7 @@
         },
         {
             "number": "20",
-            "question": "Q20. Djjjanggu! O que há com esta caixa de brinquedos❓📦 Mamãe me liga de repente. Por que ela me ligou ...",
+            "question": "<font color = \"red\">Questao 20:</font></br>Djjjanggu! O que há com esta caixa de brinquedos❓📦 Mamãe me liga de repente. Por que ela me ligou ...",
             "type": "JP",
             "A": "Como você manteve as coisas organizadas assim? Recebo elogios e me sinto orgulhoso.🥴 Também sou bom em organizar!",
             "B": "O que é isso ????? Espalhe isso e aquilo !!! Eu sou repreendido pela minha mãe.😑 Há ordem em alguma desordem ..",
