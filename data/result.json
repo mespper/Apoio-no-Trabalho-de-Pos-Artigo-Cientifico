@@ -1,132 +1,132 @@
 {
     "results" : [
         {
-            "type" : "INTJ",
-            "character" : "차가운 카리스마 흑곰😎",
-            "explanation" : "차가운 카리스마를 가진 당신은 수지의 경호원 흑곰! 효율적인 것을 중시하며, 완벽한 시스템 최고! 체계가 잘 갖춰진 것을 좋아해요. 논리적이고 현실적이며 이론적인 성향의 당신은 흑곰!",
-            "matchingCharacter" : "짱아",
-            "unmatchingCharacter" : "원장선생님",
-            "imgPath" : "./img/results/intj.png"
+            "type": "INTJ",
+            "character": "urso negro carismático legal 😎",
+            "explanation": "Você é o guarda-costas da Suzy, Urso Negro, de um carisma frio! Você valoriza a eficiência, e o sistema perfeito é o melhor! Você gosta de sistemas bem organizados. Você é um urso negro com tendências lógicas, realistas e teóricas! ",
+            "matchingCharacter": "Awesome",
+            "unmatchingCharacter": "Diretor",
+            "imgPath": "./img/results/intj.png"
         },
         {
-            "type" : "INTP",
-            "character" : "생각은 나의 힘 사색가 맹구🤓",
-            "explanation" : "사색을 즐기는 당신은 맹구! 한가지에 빠지면 그것에 깊게 몰입해요. 추상적인 것을 좋아하고 상상과 책 읽기를 즐겨요. 자신만의 세계가 뚜렷한 당신은 맹구!",
-            "matchingCharacter" : "나미리 선생님",
-            "unmatchingCharacter" : "신형만",
-            "imgPath" : "./img/results/intp.jpg"
+            "type": "INTP",
+            "character": "O pensamento é minha força, juro 🤓",
+            "explanation": "Juro que você gosta da contemplação! Quando você cai em uma coisa, fica profundamente imerso nela. Você gosta de coisas abstratas, gosta de imaginar e ler livros. Você tem um mundo claro próprio, eu juro! ",
+            "matchingCharacter": "Sir Namiri",
+            "unmatchingCharacter": "Novo type apenas",
+            "imgPath": "./img/results/intp.jpg"
         },
         {
-            "type" : "ENTJ",
-            "character" : "믿을건 나 뿐 나미리 선생님😤",
-            "explanation" : "야망이 가득한 카리스마 리더 타입의 당신은 나미리 선생님! 이 세상에 믿을건 오직 나 뿐. 자기 주장이 강하고 완벽을 추구해요. 논리적이고 분석적인 성향인 당신은 나미리 선생님!",
-            "matchingCharacter" : "맹구",
-            "unmatchingCharacter" : "봉미선",
-            "imgPath" : "./img/results/entj.jpg"
+            "type": "ENTJ",
+            "character": "Eu sou o único que acredita, Sr. Namiri😤",
+            "explanation": "Você é um type de líder carismático cheio de ambição, Sr. Namiri! A única coisa em que você pode confiar neste mundo sou eu. Você é assertivo e busca a perfeição. Você é lógico e analítico, Sr. Namiri!",
+            "matchingCharacter": "juro",
+            "unmatchingCharacter": "Bongmi",
+            "imgPath": "./img/results/entj.jpg"
         },
         {
-            "type" : "ENTP",
-            "character" : "내가 하고싶은대로 짱구🤩",
-            "explanation" : "솔직하고 뒤끝없는 당신은 짱구! 직설적이고 다른 사람의 눈치를 보지 않아요. 즉흥적이고 말이 많으며, 독창적이고 기발한 상상을 많이해요.반복적인 것은 No! No! 새로운게 좋은 당신은 짱구!",
-            "matchingCharacter" : "이슬이 누나",
-            "unmatchingCharacter" : "철수",
-            "imgPath" : "./img/results/entp.jpg"
+            "type": "ENTP",
+            "character": "O que quer que eu queira fazer, jjanggu🤩",
+            "explanation": "Você é honesto e interminável, você é o melhor! Você é franco e não cuida dos outros. Você é improvisado, falante e tem muita imaginação original e peculiar. Repetição é Não! Não! Você gosta de coisas novas, Crayon! ",
+            "matchingCharacter": "Lee Seul noona",
+            "unmatchingCharacter": "retirar",
+            "imgPath": "./img/results/entp.jpg"
         },
         {
-            "type" : "INFJ",
-            "character" : "차분하고 감성적인 이슬이 누나😊",
-            "explanation" : "신비롭고 차분한 당신은 이슬이 누나! 감성적이고 감수성이 풍부해요. 비 오는 날이면 감성에 젖지 않으신가요?🙄 이 유형은 따뜻하고 배려심이 많아요. 자신에 대한 탐구를 많이해요. 자기 성찰을 잘 하고 사색적인 당신은 이슬이 누나!",
-            "matchingCharacter" : "짱구",
-            "unmatchingCharacter" : "치타",
-            "imgPath" : "./img/results/infj.jpg"
+            "type": "INFJ",
+            "character": "Calmo e emocional Lee Seul-i noona 😊",
+            "explanation": "Místico e calmo, você é Seul-ni Lee! Você é emocional e sensível. Você não se molha em um dia chuvoso? 🙄 Este type é caloroso e atencioso. Eles fazem muitas pesquisas sobre si mesmos. Introspecção. Você, que é bom e contemplativo, é Dewseul noona! ",
+            "matchingCharacter": "Crayon",
+            "unmatchingCharacter": "cheetah",
+            "imgPath": "./img/results/infj.jpg"
         },
         {
-            "type" : "INFP",
-            "character" : "인생은 둥글게 순둥순둥 흰둥이😶",
-            "explanation" : "온화하고 상상력이 풍부한 당신은 흰둥이! 내적인 신념이 뚜렷하고 속을 잘 비추지 않아요. 가끔 알 수 없는 사람으로 비춰지지는 않나요?🙄 낯가림이 심하고 호기심이 많아요. 문제를 혼자 해결하려고 하는 독립적인 성향이에요. 자신의 성장을 추구하는 당신은 흰둥이!",
-            "matchingCharacter" : "유리",
-            "unmatchingCharacter" : "채성아 선생님",
-            "imgPath" : "./img/results/infp.jpg"
+            "type": "INFP",
+            "character": "A vida é redonda e simples, albino😶",
+            "explanation": "Você é um albino gentil e imaginativo! Você tem fortes convicções interiores e não é muito revelador. Você às vezes é visto como uma pessoa desconhecida? 🙄 Você é tímido e curioso. Tentando resolver os problemas sozinho Você é um albino que busca o seu próprio crescimento! ",
+            "matchingCharacter": "Glass",
+            "unmatchingCharacter": "Mestre Chae Seong-ah",
+            "imgPath": "./img/results/infp.jpg"
         },
         {
-            "type" : "ENFJ",
-            "character" : "모두가 행복한게 좋아 유리🥰",
-            "explanation" : "행복을 추구하는 나는 유리! 마음이 약하고 동정심이 많아요. 감정과 표현력이 풍부해요. 언변에도 능숙해요. 우리는 칭구칭구! 따뜻한 카리스마로 화합을 중시하는 당신은 유리!",
-            "matchingCharacter" : "흰둥이",
-            "unmatchingCharacter" : "옆집 아줌마",
-            "imgPath" : "./img/results/enfj.jpg"
+            "type": "ENFJ",
+            "character": "Gosto que todos sejam felizes, Yuri 🥰",
+            "explanation": "Eu sou Yuri, que busca a felicidade! Sou fraco e simpático. Estou cheio de emoções e expressividade. Sou bom em falar e falar.",
+            "matchingCharacter": "albino",
+            "unmatchingCharacter": "Tia ao lado",
+            "imgPath": "./img/results/enfj.jpg"
         },
         {
-            "type" : "ENFP",
-            "character" : "활동력은 나의 힘! 행동대장 짱아👊",
-            "explanation" : "분위기 메이커에 활동력 갑인 당신은 짱아! 새로운 것을 시도하는건 정말 좋아😍 지루한 것을 못 견뎌요. 그래서 때로는 끈기가 부족해요. 사람에 대한 관심이 많아요. 사람 좋아좋아~🥰 인생은 아모르파티! 즐거움을 추구하는 당신은 짱아!",
-            "matchingCharacter" : "흑곰",
-            "unmatchingCharacter" : "훈이",
-            "imgPath" : "./img/results/enfp.jpg"
+            "type": "ENFP",
+            "character": "Atividade é minha força! Líder de ação Jjang-ah👊",
+            "explanation": "Você é um ótimo criador de humor e ativo! Eu realmente gosto de tentar coisas novas😍 Não suporto o tédio. Então, às vezes, me falta persistência. Tenho muito interesse nas pessoas. Gosto de pessoas ~ 🥰 A vida é amor party! Você que busca o prazer é o melhor! ",
+            "matchingCharacter": "Black Bear",
+            "unmatchingCharacter": "Hooni",
+            "imgPath": "./img/results/enfp.jpg"
         },
         {
-            "type" : "ISTJ",
-            "character" : "아이들은 내가 책임진다! 채성아 선생님💪",
-            "explanation" : "강한 책임감을 가진 당신은 채성아 선생님! 말보다는 결과물로 보여주는 사람이에요. 현재에 충실하며 시간 약속을 잘 지켜요.⏰ 체계적이고 질서를 중요하게 생각하는 원리원칙주의자인 당신은 채성아 선생님!",
-            "matchingCharacter" : "봉미선",
-            "unmatchingCharacter" : "흰둥이",
-            "imgPath" : "./img/results/istj.jpg"
+            "type": "ISTJ",
+            "character": "Eu sou responsável pelas crianças! Professor Chae Sung-ah💪",
+            "explanation": "Você, Sr. Seong-ah Chae, com um forte senso de responsabilidade! Você é uma pessoa que mostra resultados em vez de palavras. Você é fiel ao presente e cumpre seus compromissos.⏰ Você é o Sr. Chae, um defensor de princípios que valoriza a sistemática e a ordem! ",
+            "matchingCharacter": "Bongmi Sun",
+            "unmatchingCharacter": "albino",
+            "imgPath": "./img/results/istj.jpg"
         },
         {
-            "type" : "ISFJ",
-            "character" : "세심하고 따뜻한 인간 손난로 원장선생님💕",
-            "explanation" : "섬세하고 속이 깊은 당신은 원장선생님! 큰 행복보다는 작지만 확실한 행복을 좋아해요. 아기자기한 것을 좋아하며, 화목한 분위기를 만드는 것을 잘해요.👨‍👩‍👧‍👧 따뜻하지만 신념있는 당신은 원장선생님!",
-            "matchingCharacter" : "치타",
-            "unmatchingCharacter" : "흑곰",
-            "imgPath" : "./img/results/isfj.jpg"
+            "type": "ISFJ",
+            "character": "Professor aquecedor de mãos humanas meticuloso e afetuoso💕",
+            "explanation": "Você é um professor delicado e profundo! Você gosta de felicidade pequena, mas certa, em vez de grande felicidade. Você gosta de coisas fofas e é bom em criar uma atmosfera harmoniosa.👨‍👩‍👧‍👧 Você é caloroso, mas confiante. Diretor! ",
+            "matchingCharacter": "cheetah",
+            "unmatchingCharacter": "Black Bear",
+            "imgPath": "./img/results/isfj.jpg"
         },
         {
-            "type" : "ESTJ",
-            "character" : "계획은 나의 힘! 인간 스케쥴러 철수📒",
-            "explanation" : "계획적이고 철저한 당신은 철수! 정리정돈을 잘하고 깔끔해요. 자존심이 강하고 냉정한 성향을 갖고 있어요. 동정심 유발은 No! 감정은 통하지 않아요!😐 계획을 섬세하고 꼼꼼하게 짜서 할 일을 척척 해내요. 똑쟁이 당신은 철수!",
-            "matchingCharacter" : "옆집아줌마",
-            "unmatchingCharacter" : "짱구",
-            "imgPath" : "./img/results/estj.jpg"
+            "type": "ESTJ",
+            "character": "O plano é meu poder! Retire o planejador humano📒",
+            "explanation": "Você é uma retirada planejada e completa! Você é bem organizado e arrumado. Você tem uma autoestima forte e uma disposição fria. Sem simpatia! As emoções não funcionam! Ei, seu idiota se retirou!",
+            "matchingCharacter": "Tia ao lado",
+            "unmatchingCharacter": "Crayon",
+            "imgPath": "./img/results/estj.jpg"
         },
         {
-            "type" : "ESFJ",
-            "character" : "따뜻한 열정맨 신형만✨",
-            "explanation" : "따뜻하고 매사에 열정적인 당신은 신형만! 다양성을 선호하고, 자신보다 다른 사람들을 더 생각하고 챙겨요. 인간관계에서 희생적인 성향이시지는 않나요..❓ 현실과 규칙을 중요하게 생각하고, 팀플레이를 좋아하는 당신은 신형만!",
-            "matchingCharacter" : "훈이",
-            "unmatchingCharacter" : "맹구",
-            "imgPath" : "./img/results/esfj.jpg"
+            "type": "ESFJ",
+            "character": "Homem da paixão calorosa Shin Hyeong-man✨",
+            "explanation": "Você é apenas um novo type de pessoa, calorosa e apaixonada em tudo o que faz! Você prefere a diversidade, e pensa nos outros e cuida mais dos outros do que de si mesmo. Você não é um sacrifício nas relações humanas .. ❓ Você valoriza a realidade e as regras E você, que gosta de jogar em equipe, é só novo! ",
+            "matchingCharacter": "Hooni",
+            "unmatchingCharacter": "juro",
+            "imgPath": "./img/results/esfj.jpg"
         },
         {
-            "type" : "ISTP",
-            "character" : "인생은 심플하고 확실하게! 옆집 아줌마🤨",
-            "explanation" : "자기 주장이 확실하고 손재주가 뛰어난 당신은 옆집 아줌마! 복잡하게 생각하는건 싫어요. Simple is the Best!👍 확실하고 익숙한 것을 선호하며, 독립적인 성향의 당신은 옆집 아줌마!",
-            "matchingCharacter" : "철수",
-            "unmatchingCharacter" : "유리",
-            "imgPath" : "./img/results/istp.jpg"
+            "type": "ISTP",
+            "character": "A vida é simples e segura! A senhora da porta ao lado🤨",
+            "explanation": "Você é a vizinha, assertiva e muito hábil! Odeio coisas complicadas. Simples é o melhor! 👍 Você prefere coisas certas e familiares, e você é independente, você é a senhora da porta ao lado!" ,
+            "matchingCharacter": "retirar",
+            "unmatchingCharacter": "Glass",
+            "imgPath": "./img/results/istp.jpg"
         },
         {
-            "type" : "ISFP",
-            "character" : "이타적인 소심쟁이 훈이😅",
-            "explanation" : "순수하고 이타적이에요. 혼자만의 시간이 소중하며 다른 사람의 눈치를 많이 보기도 해요.🙄 집 최고..! 집순이 집돌이가 많아요. 잘 웃고 친절한 따뜻한 마음씨를 가진 당신은 훈이!",
-            "matchingCharacter" : "신형만",
-            "unmatchingCharacter" : "짱아",
-            "imgPath" : "./img/results/isfp.jpg"
+            "type": "ISFP",
+            "character": "timidez abnegadaDang Hoon 😅 ",
+            "explanation": "Eu sou puro e altruísta. Meu tempo sozinho é precioso e eu procuro muito pelas outras pessoas.🙄 A melhor família ..! Há muitas donas de casa. Você é Hoon, que sorri bem e tem um type e coração caloroso.! ",
+            "matchingCharacter": "Novo type apenas",
+            "unmatchingCharacter": "Droga",
+            "imgPath": "./img/results/isfp.jpg"
         },
         {
-            "type" : "ESTP",
-            "character" : "나랑 내기할래? 재주꾼 치타🔥",
-            "explanation" : "내기, 경쟁을 즐겨요. 🤾‍♂️ 경쟁은 짜릿해..! 정말 재밌어..! 이것 저것 해보는 것이 즐거워요! 자신감이 넘쳐요. 하지만 인내심과 끈기가 부족해요. 다양함을 선호하고 화끈한⚡ 당신은 치타!",
-            "matchingCharacter" : "원장선생님",
-            "unmatchingCharacter" : "이슬이 누나",
-            "imgPath" : "./img/results/estp.jpg"
+            "type": "ESTP",
+            "character": "Quer apostar comigo? Handy Cheetah🔥",
+            "explanation": "Gosto de apostar e competir. 🤾‍♂️ A competição é estimulante ..! É muito divertido ..! É divertido tentar isso e aquilo! Estou cheio de confiança. Mas me falta paciência e persistência. Prefiro variedade e quero estar quente. ⚡ Você é uma chita! ",
+            "matchingCharacter": "Diretor",
+            "unmatchingCharacter": "Lee Seul noona",
+            "imgPath": "./img/results/estp.jpg"
         },
         {
-            "type" : "ESFP",
-            "character" : "노는게 제일 좋아! 봉미선🎵",
-            "explanation" : "이 세상은 나의 무대! 흥 많은 당신은 봉미선💃! 돈은 쓰라고 있는 것! 소비 욕구가 강해요. 인생은 Flex!😎 짹짹 참새처럼 수다스럽고 기분파! 귀가 얇고 혼자 있는걸 못 견디는 당신은 봉미선!",
-            "matchingCharacter" : "채성아 선생님",
-            "unmatchingCharacter" : "나미리 선생님",
-            "imgPath" : "./img/results/esfp.jpg"
+            "type": "ESFP",
+            "character": "Eu adoro jogar! Bong Mi-seon🎵",
+            "explanation": "Este mundo é meu palco! Você está animado, Bong Mi-seon💃! Você está gastando dinheiro! Você tem um forte desejo de consumir. A vida é Flex! Bongseon de prata!",
+            "matchingCharacter": "Mestre Chae Seong-ah",
+            "unmatchingCharacter": "Sir Namiri",
+            "imgPath": "./img/results/esfp.jpg"
         }
     ]
 }

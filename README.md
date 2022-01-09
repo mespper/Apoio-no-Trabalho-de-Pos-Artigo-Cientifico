@@ -1,2 +1,111 @@
-# Apoio-no-Trabalho-de-Pos-Artigo-Cientifico
-Apoio no Trabalho de Pos/ Artigo Cientifico - Mespper &amp; Fox
+<h2 align="center"><em>Teste MBTI 📌</em></h2>
+
+<h2 align="center"><em>What's MBTI❓</em></h2>
+
+```
+Por meio de perguntas de autorrelato que os indivíduos podem facilmente responder, cada indivíduo encontra sua tendência preferida ao reconhecer e julgar,
+Para entender como essas tendências de preferência afetam o comportamento humano e aplicá-las à vida real
+É um teste psicológico. (Fonte: Wikipedia)
+```
+
+<br>
+
+## [Porque um teste](#)
+- MBTI Um serviço da web que analisa tipos e informa sobre “personagens semelhantes a mim” e “3 filmes que eu recomendo”.
+<br>
+<img width="1000" src="https://user-images.githubusercontent.com/64337152/147040281-1813e5a8-791f-4d86-a7e3-4b0d034dc674.png">
+
+
+## Github Repository
+- [Front-end](#)
+- [Back-end](#)
+<br>
+
+## Tech stack
+<img width="600" src="https://user-images.githubusercontent.com/64337152/147026120-ee0f9448-44da-40f1-971d-8d6e4afd0e11.png">
+<br>
+
+## Architecture
+<img width="600" src="https://user-images.githubusercontent.com/64337152/147026599-a0b1868f-ff20-4035-989f-7ce77df601a7.png">
+<br>
+
+## ERD
+<img width="600" src="https://user-images.githubusercontent.com/64337152/147026603-5e0f50b2-e89c-49aa-98e4-b107c6233067.png">
+<br>
+
+
+<br>
+
+<h2 align="center"><em>Motivation✨</em></h2>
+
+```
+Normalmente, gosto de explorar o MBTI, então conhecia as propensões de cada MBTI. Então eu geralmente saio com meus amigos
+Eu também gostei muito de fazer o teste MBTI e compartilhá-lo. Um dia, enquanto pensava na ideia de planejar um projeto, eu
+Queria colocar o que havia aprendido em um tópico de que gostasse e no qual estivesse interessado. Então eu pensei, 'Oh! Ao criar um projeto MBTI, você
+Achei que poderíamos tentar e nos divertir juntos. ” E assim nasceu este projeto! 👶
+```
+
+<h2 align="center"><em>Execution🌎</em></h2>
+<p align="center"><em><a href=https://zzangumbti.netlify.app/> Let's start!</a></em><br/>
+<br/><em>
+- Este projeto é responsivo e otimizado para 💻 e 📱.<br>
+- Esse projeto foi distribuído para o trabalho de POS</em></p>
+<br/>
+<h2 align="center"><em>Description project 📝</em></h2>
+
+```
+* 본 프로젝트는 사용자의 심리 유형을 파악하기 위해 12개의 문항과 2개의 응답이 제공됩니다.
+
+* 사용자가 선택한 응답에 따라 점수를 산정합니다.
+
+* 모든 설문이 끝나면, 점수에 따라 MBTI 유형을 산출하고 유형별 특징을 보여줍니다.
+
+* 다시하기 버튼이 제공되어, 사용자가 원한다면 테스트를 다시 수행하는 기능을 제공합니다.
+
+* 공유하기 기능이 제공되어, 내가 한 테스트 결과를 카카오톡, 페이스북, 트위터 등에 공유할 수 있습니다.
+```
+
+<h2 align="center"><em>ScreenShots📸</em></h2>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64456391/126359196-5a315d6e-c500-4a12-b0aa-d08398c85c4d.jpg">
+</p>
+<br/>
+<h2 align="center"><em>Learned 👩‍🎓</em></h2>
+<br/>
+<p align="center"><em>❤️ Promise & fetch API</em></p>
+
+```
+A pesquisa e os resultados foram escritos em formato de dados JSON. Então, para chamar esses dados json em JavaScript
+Usei a API fetch. Como os dados json a serem chamados são lidos dinamicamente, é uma operação demorada.
+Os dados foram controlados usando Promise, um retorno de chamada assíncrono.
+```
+ 
+<h2 align="center"><em>Tech/Tools used🛠</em></h2>
+<br/>
+<p align="center">
+  <img src="http://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="http://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/-ADD_This-FF6550?style=for-the-badge&logo=Add_this&logoColor=white"/></a>&nbsp
+</p>
+
+<h2 align="center"><em>Structure Tree🌳</em></h2>
+
+```
+mbti_test                 
+├─ data                   
+│  ├─ data.json           
+│  └─ result.json         
+├─ img                    
+│  ├─ question            
+│  ├─ results                     
+├─ src                    
+│  └─ main.js             
+├─ index.html                      
+└─ style.css    
+```
+
+<br/>
+<h2 align="center"><em>Credit🙏</em></h2>
+<p align="center"><em>💜 Dream Coding Academy<br><strong>Mespper</strong></em></p>
+<p align="center"><em><strong><a href="https://mespper.me">View learned code</strong></em></p>
