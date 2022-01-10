@@ -155,14 +155,12 @@ function viewResult(results){
        if(resultType == result.type){
         resultContent.innerHTML = 
             `            
-            <h2 class="result__title">나의 유형은..❓</h2>
-            <h3 class="result__character">${result.character}, (${result.type})</h3>
+            <h2 class="result__title">Wow, entao meu tipo é: ${result.type} !</h2>
+            <h3 class="result__character">${result.character}</h3>
             <img class="result__img" src="${result.imgPath}">
             <span class="result__explanation">${result.explanation}</span>
-            <span class="result__matching__title">네 마음이 내 마음! 최고의 조합💕</span>
-            <span class="result__matching__character">${result.matchingCharacter}</span><br>
-            <span class="result__unmatching__title">파국이야! 최악의 조합💢</span>
-            <span class="result__unmatching__character">${result.unmatchingCharacter}</span><br>
+
+
             `;
             resultSection.insertBefore(resultContent, replayBtn);
        }

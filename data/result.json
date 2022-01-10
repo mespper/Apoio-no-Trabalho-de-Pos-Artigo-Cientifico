@@ -2,31 +2,31 @@
     "results" : [
         {
             "type": "INTJ",
-            "character": "urso negro carismático legal 😎",
-            "explanation": "Você é o guarda-costas da Suzy, Urso Negro, de um carisma frio! Você valoriza a eficiência, e o sistema perfeito é o melhor! Você gosta de sistemas bem organizados. Você é um urso negro com tendências lógicas, realistas e teóricas! ",
-            "matchingCharacter": "Awesome",
-            "unmatchingCharacter": "Diretor",
+            "character": "Eu sei a melhor forma de fazer algo.",
+            "explanation": "O INTJ é engenhoso, inventivo, original, independente e com um potente senso de que pode trazer melhorias a sua volta, seja em metodologias criativas para seu conforto, para pessoas próximas ou para a sociedade em geral. Com uma imensa força de vontade, o INTJ usa a visão da sua Intuição Introvertida Dominante (Ni dom) que lhe diz qual é o futuro mais eficiente, e com seu Pensamento Extrovertido Auxiliar (Te aux) irá buscar a melhor maneira de aplicar seu conhecimento na vida real que faça alguma diferença significativa, e se estiver aliado de seu Sentimento Introvertido Terciário (Fi ter) saberá quais valores corretos essa aplicação trará para a humanidade.",
+            "matchingCharacter": "ENTP",
+            "unmatchingCharacter": "ESFJ",
             "imgPath": "./img/results/intj.png"
         },
         {
             "type": "INTP",
-            "character": "O pensamento é minha força, juro 🤓",
-            "explanation": "Juro que você gosta da contemplação! Quando você cai em uma coisa, fica profundamente imerso nela. Você gosta de coisas abstratas, gosta de imaginar e ler livros. Você tem um mundo claro próprio, eu juro! ",
+            "character": "Vou analisar o que é fato ou sem fundamento.",
+            "explanation": "O INTP é um cientista teórico natural que tem prazer e facilidade em resolver problemas lógicos. Analítico e perspicaz, fica feliz quando pode ajudar com soluções para os problemas técnicos dos outros. Com Pensamento Introvertido Dominante (Ti dom) tem habilidade de juntar peças e fenômenos através de raciocínio dedutivo e saber imediatamente o que é falso ou verdadeiro usando método científico e com larga visão intuitiva pode detectar incoerência e inconsistência em sistemas externos com sua Intuição Extrovertida Auxiliar (Ne aux) e saber o que vai dar certo la na frente. ",
             "matchingCharacter": "Sir Namiri",
             "unmatchingCharacter": "Novo type apenas",
             "imgPath": "./img/results/intp.jpg"
         },
         {
             "type": "ENTJ",
-            "character": "Eu sou o único que acredita, Sr. Namiri😤",
-            "explanation": "Você é um type de líder carismático cheio de ambição, Sr. Namiri! A única coisa em que você pode confiar neste mundo sou eu. Você é assertivo e busca a perfeição. Você é lógico e analítico, Sr. Namiri!",
+            "character": "Eu te direi o que fazer.",
+            "explanation": "O ENTJ, as vezes conhecido como o diretor executivo, empresário ou marechal, aqui será chamado de “empreendedor” por sua capacidade de planejar e executar sem muitas dificuldades. Com Pensamento Extrovertido Dominante (Te dom), o ENTJ é um líder natural, disposto a aplicar regras e dizer as pessoas o que deve ser feito para que determinado empreendimento funcione, segundo a sua perspectiva interna e sua absorção de conhecimento através de sua apurada intuição (Ni aux) diz o que é vantajoso para ele e para o grupo. ",
             "matchingCharacter": "juro",
             "unmatchingCharacter": "Bongmi",
-            "imgPath": "./img/results/entj.jpg"
+            "imgPath": "./img/results/entj.png"
         },
         {
             "type": "ENTP",
-            "character": "O que quer que eu queira fazer, jjanggu🤩",
+            "character": "Nada é verdade, tudo depende.",
             "explanation": "Você é honesto e interminável, você é o melhor! Você é franco e não cuida dos outros. Você é improvisado, falante e tem muita imaginação original e peculiar. Repetição é Não! Não! Você gosta de coisas novas, Crayon! ",
             "matchingCharacter": "Lee Seul noona",
             "unmatchingCharacter": "retirar",
@@ -35,95 +35,95 @@
         {
             "type": "INFJ",
             "character": "Calmo e emocional Lee Seul-i noona 😊",
-            "explanation": "Místico e calmo, você é Seul-ni Lee! Você é emocional e sensível. Você não se molha em um dia chuvoso? 🙄 Este type é caloroso e atencioso. Eles fazem muitas pesquisas sobre si mesmos. Introspecção. Você, que é bom e contemplativo, é Dewseul noona! ",
+            "explanation": "O ENTP é inovador, visionário, criativo, original, independente e adora demonstrar sua inteligência em público, com sua mente rápida e afiada, pronto para fazer uma piada inteligente ou sempre preparado para um debate acalorado. O ENTP tem Intuição Extrovertida Dominante (Ne dom) e isso significa que ele tem uma resposta na ponta da língua para tudo, dos vários futuros e alternativas que ele já se preparou pela frente aliado a um processo lógico de Pensamento Introvertido Auxiliar (Ti aux), ele ata as linhas para que não tenha pontas soltas nas suas respostas, ou pelo menos pareça assim. ",
             "matchingCharacter": "Crayon",
             "unmatchingCharacter": "cheetah",
             "imgPath": "./img/results/infj.jpg"
         },
         {
             "type": "INFP",
-            "character": "A vida é redonda e simples, albino😶",
-            "explanation": "Você é um albino gentil e imaginativo! Você tem fortes convicções interiores e não é muito revelador. Você às vezes é visto como uma pessoa desconhecida? 🙄 Você é tímido e curioso. Tentando resolver os problemas sozinho Você é um albino que busca o seu próprio crescimento! ",
+            "character": "Num mundo ideal todos se respeitam.",
+            "explanation": "O INFP é um filósofo natural, criativo e leal que sonha com um mundo ideal para se viver. Harmônicos que buscam uma vida de equilíbrio espiritual, tem um sistema de valores altamente apurado (Sentimento Introvertido Dominante – Fi dom) e sabe imediatamente o que é bom e o que não presta, se agarrando com intensidade nas ideias que considera boas. Com Intuição Extrovertida Auxiliar (Ne aux) afiada, o INFP enxerga o futuro externo e o que ele trará para a humanidade, e aliado a sua função dominante, pode mergulhar num mar de ideias, mistérios e soluções possíveis para um mundo benigno. ",
             "matchingCharacter": "Glass",
             "unmatchingCharacter": "Mestre Chae Seong-ah",
             "imgPath": "./img/results/infp.jpg"
         },
         {
             "type": "ENFJ",
-            "character": "Gosto que todos sejam felizes, Yuri 🥰",
-            "explanation": "Eu sou Yuri, que busca a felicidade! Sou fraco e simpático. Estou cheio de emoções e expressividade. Sou bom em falar e falar.",
+            "character": "Quero que todos estejam bem.",
+            "explanation": "O ENFJ é um um líder natural e otimista que tem carisma e motivação para inspirar as pessoas. Com Sentimento Extrovertido Dominante (Fe Dom) sua principal motivação é organizar a sociedade por valores coletivos para o bem comum de todos, buscando em sua Intuição Inferior Auxiliar (Ni Aux) a solução eficaz para uma diplomacia e evitando que as pessoas entrem em conflito. ",
             "matchingCharacter": "albino",
             "unmatchingCharacter": "Tia ao lado",
             "imgPath": "./img/results/enfj.jpg"
         },
         {
             "type": "ENFP",
-            "character": "Atividade é minha força! Líder de ação Jjang-ah👊",
-            "explanation": "Você é um ótimo criador de humor e ativo! Eu realmente gosto de tentar coisas novas😍 Não suporto o tédio. Então, às vezes, me falta persistência. Tenho muito interesse nas pessoas. Gosto de pessoas ~ 🥰 A vida é amor party! Você que busca o prazer é o melhor! ",
+            "character": "A vida só é boa se feita para pessoas.",
+            "explanation": "O ENFP é um otimista defensor da vida e das pessoas. Ele advoga por causas que acha correta para o mundo, pois com sua Intuição Extrovertida Dominante (Ne Dom) sabe o que é melhor, segundo o que seu Sentimento Introvertido Auxiliar (Fi Aux) julga ser correto para ele, deve ser também correto para os outros. Com uma mente fértil cheia de novas ideias está disposto a buscar as melhores atividades por perto para se divertir ao lado de seus amigos.",
             "matchingCharacter": "Black Bear",
             "unmatchingCharacter": "Hooni",
             "imgPath": "./img/results/enfp.jpg"
         },
         {
             "type": "ISTJ",
-            "character": "Eu sou responsável pelas crianças! Professor Chae Sung-ah💪",
-            "explanation": "Você, Sr. Seong-ah Chae, com um forte senso de responsabilidade! Você é uma pessoa que mostra resultados em vez de palavras. Você é fiel ao presente e cumpre seus compromissos.⏰ Você é o Sr. Chae, um defensor de princípios que valoriza a sistemática e a ordem! ",
+            "character": "O dever primeiro.",
+            "explanation": "O ISTJ é honesto, confiável, leal, pontual, responsável, perfeccionista e um cidadão consciente de seus deveres para com os outros e para com a sociedade. Com uma natureza série e reservada, tende a ser analítico, metodológico e cético por natureza. Com Sensação Introvertida Dominante (Si dom) leva seus compromissos muito a sério e se um ISTJ der sua palavra ele irá cumprir, certificando-se de entregar dentro do prazo prometido, pois ele sabe que as relações são feitas de honra e respeito adquirido e da mesma forma ele espera que os outros também sejam assim. ",
             "matchingCharacter": "Bongmi Sun",
             "unmatchingCharacter": "albino",
             "imgPath": "./img/results/istj.jpg"
         },
         {
             "type": "ISFJ",
-            "character": "Professor aquecedor de mãos humanas meticuloso e afetuoso💕",
-            "explanation": "Você é um professor delicado e profundo! Você gosta de felicidade pequena, mas certa, em vez de grande felicidade. Você gosta de coisas fofas e é bom em criar uma atmosfera harmoniosa.👨‍👩‍👧‍👧 Você é caloroso, mas confiante. Diretor! ",
+            "character": "Estou aqui para te ajudar, seja como for.",
+            "explanation": "O ISFJ é honesto, humilde, carinhoso, caridoso, altruísta, de coração puro e extraordinariamente leal aos seus próximos. Com habilidade de perceber a necessidade das pessoas, está prontamente preparado para ajudar sempre que possível, sempre colocando os outros na frente. Com Sensação Introvertida Dominante (Si dom) aliada de um Sentimento Extrovertido Auxiliar (Fe aux) o ISFJ aprendeu a se sentir bem cuidando e ajudando das pessoas, criando uma relação de auto-sustentabilidade com seus grupos sociais, uma vez que fazer os outros se sentirem bem, o fará se sentir bem também, e conflitos são maus para qualquer estrutura previamente organizada. ",
             "matchingCharacter": "cheetah",
             "unmatchingCharacter": "Black Bear",
             "imgPath": "./img/results/isfj.jpg"
         },
         {
             "type": "ESTJ",
-            "character": "O plano é meu poder! Retire o planejador humano📒",
-            "explanation": "Você é uma retirada planejada e completa! Você é bem organizado e arrumado. Você tem uma autoestima forte e uma disposição fria. Sem simpatia! As emoções não funcionam! Ei, seu idiota se retirou!",
+            "character": "Vamos fazer um trabalho bem feito.",
+            "explanation": "O ESTJ é um trabalhador, responsável, leal, seguro de si, de suas afirmações e de sua posição perante a sociedade. Sendo energético como é, o ESTJ é firme, decidido e direto, e quando é para colocar cada coisa no seu devido lugar, com seu Pensamento Extrovertido Dominante (Te dom), não pensará duas vezes em coordenar pessoas, aplicar ordem e regras a serem seguidas segundo os dados acumulados em sua Sensação Introvertida Auxiliar (Si aux), valorizando segurança, estabilidade, conhecimento adquirido, informações claras e diretas.",
             "matchingCharacter": "Tia ao lado",
             "unmatchingCharacter": "Crayon",
             "imgPath": "./img/results/estj.jpg"
         },
         {
             "type": "ESFJ",
-            "character": "Homem da paixão calorosa Shin Hyeong-man✨",
-            "explanation": "Você é apenas um novo type de pessoa, calorosa e apaixonada em tudo o que faz! Você prefere a diversidade, e pensa nos outros e cuida mais dos outros do que de si mesmo. Você não é um sacrifício nas relações humanas .. ❓ Você valoriza a realidade e as regras E você, que gosta de jogar em equipe, é só novo! ",
+            "character": "Deixe-me lhe servir.",
+            "explanation": "O ESFJ é um dos tipos mais “extrovertidos” (no sentido popular). Energético, entusiasmado, feliz, companheiro, amigável e excepcionalmente agregadores de pessoas. Com um Sentimento Extrovertido Dominante (Fe dom) tem prazer em ajudar as pessoas pelo bem do coletivo com seu jeito animado e uma genuína vontade de ver as pessoas sorrirem e estarem de bem com a vida, para que todo grupo esteja bem e seguindo em frente. ",
             "matchingCharacter": "Hooni",
             "unmatchingCharacter": "juro",
             "imgPath": "./img/results/esfj.jpg"
         },
         {
             "type": "ISTP",
-            "character": "A vida é simples e segura! A senhora da porta ao lado🤨",
-            "explanation": "Você é a vizinha, assertiva e muito hábil! Odeio coisas complicadas. Simples é o melhor! 👍 Você prefere coisas certas e familiares, e você é independente, você é a senhora da porta ao lado!" ,
+            "character": "Deixe comigo. Eu sei o que fazer.",
+            "explanation": "O ISTP é independente, confiante, pragmático e com fortes convicções de suas capacidades físicas e mentais. Um habilidoso que sabe como as coisas funcionam e sabe como coloca-las para funcionar. Com seu grande senso de praticidade torna-se positivo em relação a sistemas mecânicos ou teóricos, no sentido que ele sabe que não tem nada que ele não possa consertar. " ,
             "matchingCharacter": "retirar",
             "unmatchingCharacter": "Glass",
             "imgPath": "./img/results/istp.jpg"
         },
         {
             "type": "ISFP",
-            "character": "timidez abnegadaDang Hoon 😅 ",
-            "explanation": "Eu sou puro e altruísta. Meu tempo sozinho é precioso e eu procuro muito pelas outras pessoas.🙄 A melhor família ..! Há muitas donas de casa. Você é Hoon, que sorri bem e tem um type e coração caloroso.! ",
+            "character": "Vamos criar alguma coisa.",
+            "explanation": "O ISFP é um artista natural, criativo e original com alta sensibilidade estética que sabe as coisas boas da vida. Independente, segue um código de conduta otimista e valor moral aprimorado com Sentimento Introvertido Dominante (Fi dom), aliado a uma Sensação Extrovertida Auxiliar (Se aux) sabe como entregar boas experiências para as pessoas ao redor, isso torna do ISFP um ótimo artista, seja para entregar uma experiência visual, auditiva ou palatável aos outros. ",
             "matchingCharacter": "Novo type apenas",
             "unmatchingCharacter": "Droga",
             "imgPath": "./img/results/isfp.jpg"
         },
         {
             "type": "ESTP",
-            "character": "Quer apostar comigo? Handy Cheetah🔥",
-            "explanation": "Gosto de apostar e competir. 🤾‍♂️ A competição é estimulante ..! É muito divertido ..! É divertido tentar isso e aquilo! Estou cheio de confiança. Mas me falta paciência e persistência. Prefiro variedade e quero estar quente. ⚡ Você é uma chita! ",
+            "character": "Eu posso tudo!",
+            "explanation": "O ESTP é energético, ativo e um empreendedor social. Bravo guerreiro que aceita qualquer desafio que lhe é imposto, se assim for de sua vontade. Tem habilidade de cativar as pessoas com sua espontaneidade e coragem para enfrentar qualquer dificuldade. Com Sensação Extrovertida Dominante (Se dom) o ESTP consegue detectar automaticamente qualquer influência do ambiente externo imediato, deixando todos ao redor impressionados com sua inteligência espacial e ao usar sua Função Auxiliar Pensamento Introvertido (Ti aux) ele sabe o que funciona e o que não funciona em qualquer situação.",
             "matchingCharacter": "Diretor",
             "unmatchingCharacter": "Lee Seul noona",
             "imgPath": "./img/results/estp.jpg"
         },
         {
             "type": "ESFP",
-            "character": "Eu adoro jogar! Bong Mi-seon🎵",
-            "explanation": "Este mundo é meu palco! Você está animado, Bong Mi-seon💃! Você está gastando dinheiro! Você tem um forte desejo de consumir. A vida é Flex! Bongseon de prata!",
+            "character": "O momento perfeito é agora!",
+            "explanation": "O ESFP é um dos tipos mais “extrovertidos” (na visão do senso comum), como um apresentador de palco natural, ele é animado, otimista, energético e amigável e com sua Sensação Extrovertida Dominante (Se dom) aliada a um senso de valor muito próprio com Sentimento Introvertido Auxiliar (Fi aux) o ESFP sabe curtir a vida e é naturalmente feliz. Assim, com seu ótimo senso de humor, proporciona alegria contagiante para aqueles por perto. ",
             "matchingCharacter": "Mestre Chae Seong-ah",
             "unmatchingCharacter": "Sir Namiri",
             "imgPath": "./img/results/esfp.jpg"
