@@ -1,8 +1,10 @@
-<h2 align="center"><em>Apoio no Trabalho de Pos/ Artigo Cientifico com MBTI 📌</em></h2>
+<h2 align="center"><em>Apoio no Trabalho de Pos/ Artigo Cientifico com ambiente de Realidade Virtual em MBTI 📌</em></h2>
 
 <h2 align="center"><em>O que podemos aprender com MBTI❓</em></h2>
 
 ```
+Neste trabalho pretendemos mostrar como é possível através da Realidade Virtual expor os usuários há um ambiente mais imersivo e ao mesmo tempo engajador para fazer testes de personalidades com base nas Classificação tipológica de Myers-Briggs na qual se trata de um instrumento utilizado para identificar características e preferências pessoais.
+
 Por meio de perguntas de autorrelato que os indivíduos podem facilmente responder, cada indivíduo encontra sua tendência preferida ao reconhecer e julgar,
 Para entender como essas tendências de preferência afetam o comportamento humano e aplicá-las à vida real
 É um teste psicológico. (Fonte: Wikipedia)
@@ -11,7 +13,7 @@ Para entender como essas tendências de preferência afetam o comportamento huma
 <br>
 
 ## [Informacoes Adicionais](#)
-- MBTI Um serviço da web que analisa tipos e informa sobre “personagens semelhantes a mim” e “3 filmes que eu recomendo”.
+- MBTI Um serviço da web que analisa tipos e informa sobre “personagens semelhantes ao autor do proprio teste”.
 <br>
 <img width="1000" src="https://cdn.glitch.global/cff7a94b-2817-41cf-ae0e-cff4dc96df48/138634-realidade-aumentada-e-realidade-virtual-quais-sao-as-diferencas.jpg?v=1641747829114">
 <br>
@@ -22,11 +24,6 @@ Para entender como essas tendências de preferência afetam o comportamento huma
 
 <br>
 
-## Github Repository
-- [Front-end](#)
-- [Back-end](#)
-<br>
-
 ## Tech stack
 <img width="600" src="https://user-images.githubusercontent.com/64337152/147026120-ee0f9448-44da-40f1-971d-8d6e4afd0e11.png">
 <br>
@@ -35,9 +32,6 @@ Para entender como essas tendências de preferência afetam o comportamento huma
 <img width="600" src="https://user-images.githubusercontent.com/64337152/147026599-a0b1868f-ff20-4035-989f-7ce77df601a7.png">
 <br>
 
-## ERD
-<img width="600" src="https://user-images.githubusercontent.com/64337152/147026603-5e0f50b2-e89c-49aa-98e4-b107c6233067.png">
-<br>
 
 
 <br>
@@ -45,10 +39,14 @@ Para entender como essas tendências de preferência afetam o comportamento huma
 <h2 align="center"><em>Motivation✨</em></h2>
 
 ```
-Normalmente, gosto de explorar o MBTI, então conhecia as propensões de cada MBTI. Então eu geralmente saio com meus amigos
-Eu também gostei muito de fazer o teste MBTI e compartilhá-lo. Um dia, enquanto pensava na ideia de planejar um projeto, eu
-Queria colocar o que havia aprendido em um tópico de que gostasse e no qual estivesse interessado. Então eu pensei, 'Oh! Ao criar um projeto MBTI, você
-Achei que poderíamos tentar e nos divertir juntos. ” E assim nasceu este projeto! 👶
+A motivação no trabalho ou na vida pessoal é uma das chaves para o sucesso e êxito como um todo. Isso porque ela está diretamente relacionada à satisfação e à produtividade.
+
+No entanto, encontrar um combustível ou direcionamento para se manter motivado no dia a dia pode ser um desafio que, muitas vezes, nós não conseguimos superar sozinhos. Portanto, cabe às empresas ou a nos mesmos buscar autoconhecimento através de técnicas e inteligência emocional, pois a chave da motivação é o autoconhecimento.
+
+Então considerando que a motivação é um esforço exercido para se alcançar algo, seja então por meio pessoal e/ou profissional. Logo podemos afirmar que o motivo é nada mais do que o estímulo, seja ele externo (ambiente) ou interno (interesses) na qual impulsiona nos a buscar nossos sonhos e objetivos.
+
+Portanto através desse nosso software oferecemos testes para o autoconhecimento baseado em técnicas já conhecidas porém com um elemento de Realidade Virtual para uma melhor inteligência emocional de cada um.
+ 👶
 ```
 
 <h2 align="center"><em>Execution🌎</em></h2>
@@ -60,11 +58,10 @@ Achei que poderíamos tentar e nos divertir juntos. ” E assim nasceu este proj
 <h2 align="center"><em>Description project 📝</em></h2>
 
 ```
-* Neste projeto, 12 perguntas e 2 respostas são fornecidas para entender o tipo psicológico do usuário.
+* Neste projeto, 12 perguntas e 2 respostas são fornecidas para entender o tipo psicológico do usuário em ambientes gerais e de trabalho.
 * As pontuações são calculadas com base nas respostas selecionadas pelo usuário.
 * Quando todos os questionários são preenchidos, o tipo de MBTI é calculado de acordo com a pontuação e as características de cada tipo são mostradas.
 * Um botão de refazer é fornecido, dando ao usuário a capacidade de executar novamente o teste, se desejar.
-* Uma função de compartilhamento é fornecida, para que você possa compartilhar os resultados do seu teste no KakaoTalk, Facebook, Twitter, etc.
 ```
 
 <h2 align="center"><em>ScreenShots📸</em></h2>
