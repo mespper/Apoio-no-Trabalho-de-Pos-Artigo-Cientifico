@@ -15,11 +15,13 @@ Para entender como essas tendências de preferência afetam o comportamento huma
 ## [Informacoes Adicionais](#)
 - MBTI Um serviço da web que analisa tipos e informa sobre “personagens semelhantes ao autor do proprio teste”.
 <br>
+<img width="1000" src="https://cdn.glitch.global/cff7a94b-2817-41cf-ae0e-cff4dc96df48/138634-realidade-aumentada-e-realidade-virtual-quais-sao-as-diferencas.jpg?v=1641747829114">
+<br>
 
 ## Produção Autoral | Alunos: Mespper & Fox:
-<p align="center">
-https://docs.google.com/document/d/1XkQhADG-CBpq9LwOsm4LKhu7_YLiZ2pmXZnRJ-Hp3Bc/edit?usp=sharing
-</p>
+
+[![](https://www.elementa.com.br/wp-content/uploads/2018/02/docs-logo.jpg)](https://docs.google.com/document/d/1XkQhADG-CBpq9LwOsm4LKhu7_YLiZ2pmXZnRJ-Hp3Bc/edit?usp=sharing "Doc")
+
 <br>
 
 ## Tech stack
@@ -27,7 +29,7 @@ https://docs.google.com/document/d/1XkQhADG-CBpq9LwOsm4LKhu7_YLiZ2pmXZnRJ-Hp3Bc/
 <br>
 
 ## Architecture
-<img width="600" src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/147026599-a0b1868f-ff20-4035-989f-7ce77df601a7.jpg?v=1642094275368">
+<img width="600" src="https://user-images.githubusercontent.com/64337152/147026599-a0b1868f-ff20-4035-989f-7ce77df601a7.png">
 <br>
 
 
@@ -61,12 +63,11 @@ Portanto através desse nosso software oferecemos testes para o autoconhecimento
 * Quando todos os questionários são preenchidos, o tipo de MBTI é calculado de acordo com a pontuação e as características de cada tipo são mostradas.
 * Um botão de refazer é fornecido, dando ao usuário a capacidade de executar novamente o teste, se desejar.
 ```
-[![](https://www.elementa.com.br/wp-content/uploads/2018/02/docs-logo.jpg)](https://docs.google.com/document/d/1XkQhADG-CBpq9LwOsm4LKhu7_YLiZ2pmXZnRJ-Hp3Bc/edit?usp=sharing "Doc")
 
 <h2 align="center"><em>ScreenShots📸</em></h2>
 <p align="center">
 
- [![Everything Is AWESOME](https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk=w412-h220-rw)](https://youtu.be/TrozEfejND8 "Trabalho de POS")
+ [![Everything Is AWESOME](https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk=w412-h220-rw)](https://youtu.be/_OKWYksksRw "Trabalho de POS")
  
 </p>
 <p align="center">
@@ -135,3 +136,4 @@ mbti_test
 <h2 align="center"><em>Credit🙏</em></h2>
 <p align="center"><em>💜 Dream Coding Academy<br><strong>Mespper</strong></em></p>
 <p align="center"><em><strong><a href="https://mespper.me">View learned code</strong></em></p>
+
