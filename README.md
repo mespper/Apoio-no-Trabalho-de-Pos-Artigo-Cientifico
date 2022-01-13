@@ -15,7 +15,7 @@ Para entender como essas tendências de preferência afetam o comportamento huma
 ## [Informacoes Adicionais](#)
 - MBTI Um serviço da web que analisa tipos e informa sobre “personagens semelhantes ao autor do proprio teste”.
 <br>
-<img width="500" src="https://cdn.glitch.global/cff7a94b-2817-41cf-ae0e-cff4dc96df48/138634-realidade-aumentada-e-realidade-virtual-quais-sao-as-diferencas.jpg?v=1641747829114">
+<img width="500" align="center" src="https://cdn.glitch.global/cff7a94b-2817-41cf-ae0e-cff4dc96df48/138634-realidade-aumentada-e-realidade-virtual-quais-sao-as-diferencas.jpg?v=1641747829114">
 <br>
 
 ## Produção Autoral | Alunos: Mespper & Fox:
