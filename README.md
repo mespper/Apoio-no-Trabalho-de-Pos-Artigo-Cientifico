@@ -16,10 +16,6 @@ Para entender como essas tendências de preferência afetam o comportamento huma
 - MBTI Um serviço da web que analisa tipos e informa sobre “personagens semelhantes ao autor do proprio teste”.
 <br>
 
-<p align="center">
-  <img width="500" src="https://cdn.glitch.global/cff7a94b-2817-41cf-ae0e-cff4dc96df48/138634-realidade-aumentada-e-realidade-virtual-quais-sao-as-diferencas.jpg?v=1641747829114e" alt="Trabalho de POS"/>
-</p>
-
 ## Produção Autoral | Alunos: Mespper & Fox:
 <p align="center">
 https://docs.google.com/document/d/1XkQhADG-CBpq9LwOsm4LKhu7_YLiZ2pmXZnRJ-Hp3Bc/edit?usp=sharing
@@ -65,6 +61,7 @@ Portanto através desse nosso software oferecemos testes para o autoconhecimento
 * Quando todos os questionários são preenchidos, o tipo de MBTI é calculado de acordo com a pontuação e as características de cada tipo são mostradas.
 * Um botão de refazer é fornecido, dando ao usuário a capacidade de executar novamente o teste, se desejar.
 ```
+[![](https://www.elementa.com.br/wp-content/uploads/2018/02/docs-logo.jpg)](https://docs.google.com/document/d/1XkQhADG-CBpq9LwOsm4LKhu7_YLiZ2pmXZnRJ-Hp3Bc/edit?usp=sharing "Doc")
 
 <h2 align="center"><em>ScreenShots📸</em></h2>
 <p align="center">
