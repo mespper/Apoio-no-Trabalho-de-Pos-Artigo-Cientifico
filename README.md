@@ -69,8 +69,34 @@ Achei que poderíamos tentar e nos divertir juntos. ” E assim nasceu este proj
 
 <h2 align="center"><em>ScreenShots📸</em></h2>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64456391/126359196-5a315d6e-c500-4a12-b0aa-d08398c85c4d.jpg">
+@[youtube](https://youtu.be/_OKWYksksRw)
 </p>
+<p align="center">
+<img src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/Apoio%20no%20Trabalho%20de%20POS%20_%20Artigo%20Cientifico%20-%20Mespper%20%26%20Fox.png?v=1642085636147">
+</p>
+<p align="center">
+<img src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/Apoio%20no%20Trabalho%20de%20POS%20_%20Artigo%20Cientifico%20-%20Mespper%20%26%20Fox%20(6).png?v=1642085638978">
+</p>
+<p align="center">
+<img src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/Apoio%20no%20Trabalho%20de%20POS%20_%20Artigo%20Cientifico%20-%20Mespper%20%26%20Fox%20(2).png?v=1642085640007">
+</p>
+<p align="center">
+<img src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/Apoio%20no%20Trabalho%20de%20POS%20_%20Artigo%20Cientifico%20-%20Mespper%20%26%20Fox%20(3).png?v=1642085643823">
+</p>
+<p align="center">
+<img src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/Apoio%20no%20Trabalho%20de%20POS%20_%20Artigo%20Cientifico%20-%20Mespper%20%26%20Fox%20(5).png?v=1642085662384">
+</p>
+<p align="center">
+<img src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/Apoio%20no%20Trabalho%20de%20POS%20_%20Artigo%20Cientifico%20-%20Mespper%20%26%20Fox%20(4).png?v=1642085662384">
+</p>
+<p align="center">
+<img src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/Apoio%20no%20Trabalho%20de%20POS%20_%20Artigo%20Cientifico%20-%20Mespper%20%26%20Fox%20(7).png?v=1642085662384">
+</p>
+<p align="center">
+<img src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/Apoio%20no%20Trabalho%20de%20POS%20_%20Artigo%20Cientifico%20-%20Mespper%20%26%20Fox%20(1).png?v=1642085664924">
+</p>
+
+
 <br/>
 <h2 align="center"><em>Learned 👩‍🎓</em></h2>
 <br/>
