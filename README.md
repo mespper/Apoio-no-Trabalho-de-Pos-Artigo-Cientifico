@@ -21,9 +21,9 @@ Para entender como essas tendências de preferência afetam o comportamento huma
 </p>
 
 ## Produção Autoral | Alunos: Mespper & Fox:
-
+<p align="center">
 [![](https://www.elementa.com.br/wp-content/uploads/2018/02/docs-logo.jpg)](https://docs.google.com/document/d/1XkQhADG-CBpq9LwOsm4LKhu7_YLiZ2pmXZnRJ-Hp3Bc/edit?usp=sharing "Doc")
-
+</p>
 <br>
 
 ## Tech stack
