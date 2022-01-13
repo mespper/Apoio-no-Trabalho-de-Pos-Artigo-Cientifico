@@ -15,7 +15,7 @@ Para entender como essas tendências de preferência afetam o comportamento huma
 ## [Informacoes Adicionais](#)
 - MBTI Um serviço da web que analisa tipos e informa sobre “personagens semelhantes ao autor do proprio teste”.
 <br>
-<img width="1000" src="https://cdn.glitch.global/cff7a94b-2817-41cf-ae0e-cff4dc96df48/138634-realidade-aumentada-e-realidade-virtual-quais-sao-as-diferencas.jpg?v=1641747829114">
+<img width="500" src="https://cdn.glitch.global/cff7a94b-2817-41cf-ae0e-cff4dc96df48/138634-realidade-aumentada-e-realidade-virtual-quais-sao-as-diferencas.jpg?v=1641747829114">
 <br>
 
 ## Produção Autoral | Alunos: Mespper & Fox:
@@ -29,7 +29,7 @@ Para entender como essas tendências de preferência afetam o comportamento huma
 <br>
 
 ## Architecture
-<img width="600" src="https://user-images.githubusercontent.com/64337152/147026599-a0b1868f-ff20-4035-989f-7ce77df601a7.png">
+<img width="600" src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/147026599-a0b1868f-ff20-4035-989f-7ce77df601a7.jpg?v=1642094275368">
 <br>
 
 
