@@ -70,6 +70,7 @@ Achei que poderíamos tentar e nos divertir juntos. ” E assim nasceu este proj
 <h2 align="center"><em>ScreenShots📸</em></h2>
 <p align="center">
 @[youtube](https://youtu.be/_OKWYksksRw)
+ [![Watch the video](https://www.interessantesaber.com.br/wp-content/uploads/2020/10/Como-produzir-um-bom-video-para-o-YouTube.png)](https://youtu.be/_OKWYksksRw)
 </p>
 <p align="center">
 <img src="https://cdn.glitch.global/f9fc8fa2-1793-4e82-991b-29c2a84f1f4e/Apoio%20no%20Trabalho%20de%20POS%20_%20Artigo%20Cientifico%20-%20Mespper%20%26%20Fox.png?v=1642085636147">
