@@ -71,7 +71,7 @@ Portanto através desse nosso software oferecemos testes para o autoconhecimento
 
  [![Everything Is AWESOME](https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk=w412-h220-rw)](https://youtu.be/ja7JtH_r9RI "Trabalho de POS")
  
-   [![Everything Is AWESOME](https://cdn.glitch.global/cff7a94b-2817-41cf-ae0e-cff4dc96df48/https___mespper.me_Fox_Mespper_Apoio-no-Trabalho-de-Pos-Artigo-Cientifico_video_.png?v=1642422346894)](https://mespper.me/Fox_Mespper/Apoio-no-Trabalho-de-Pos-Artigo-Cientifico/video/ "Trabalho de POS com legenda")
+   [![Everything Is AWESOME](https://static.thenounproject.com/png/653866-200.png)](https://mespper.me/Fox_Mespper/Apoio-no-Trabalho-de-Pos-Artigo-Cientifico/video/ "Trabalho de POS com legenda")
   
 </p>
 <p align="center">
