@@ -69,7 +69,7 @@ Portanto através desse nosso software oferecemos testes para o autoconhecimento
 <h2 align="center"><em>ScreenShots📸</em></h2>
 <p align="center">
 
- [![Everything Is AWESOME](https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk=w412-h220-rw)](https://youtu.be/_OKWYksksRw "Trabalho de POS")
+ [![Everything Is AWESOME](https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk=w412-h220-rw)](https://youtu.be/ja7JtH_r9RI "Trabalho de POS")
  
 </p>
 <p align="center">
