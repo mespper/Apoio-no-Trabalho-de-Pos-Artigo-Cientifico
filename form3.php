@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="style1.css">
       <!-- <link rel="stylesheet" href="https://camu-mesp-vr.glitch.me/style.css" /> -->
       <title>Apoio no Trabalho de POS / Artigo Cientifico - Mespper & Fox</title>
       <style>
@@ -20,7 +20,7 @@
       </style>
    </head>
    <body>
-      <form method="post" action="Roboto_Regular.php" >
+      <form method="post" action="Roboto_Regular_Com_Registro.php" >
          Obrigado por querer Registrar seus Dados, siga as perguntas abaixo:<br>
          <hr>
          <br>

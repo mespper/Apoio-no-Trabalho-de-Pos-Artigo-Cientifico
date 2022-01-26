@@ -47,23 +47,86 @@
     <title>Apoio no Trabalho de POS / Artigo Cientifico - Mespper & Fox</title>
 
     <style>
+         div#text {
+         position: absolute;
+         left: 6px;
+         top: 6px;
+         padding: 6px;
+         /*
+         text-shadow: 0 0 5px white;
+         */
+         width: 21%;
+         background-color: rgba(255, 255, 255, 0.7);
+         border-radius: 14px;
+         }
 
-div#text {
-  position: absolute;
-  left: 6px;
-  top: 6px;
-  padding: 6px;
-  /*
-  text-shadow: 0 0 5px white;
-  */
-  width: 21%;
-  background-color: rgba(255, 255, 255, 0.7);
- 
-  border-radius: 14px;
+         html,body {
+  font-family: sans-serif;
+  padding: 0 1em;
+  font-size: 19px;
+  background: #222;
+  color: #aaa;
+  text-align:center;
 }
 
+p {
+  margin: 1.5em 0;
+  color: #000;
+}
 
-    </style>
+img {
+  max-height: 50vh;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover {
+  color: red;
+}
+
+.italic { font-style: italic; }
+.small { font-size: 0.8em; }
+
+/** LIGHTBOX MARKUP **/
+
+.lightbox {
+  /* Default to hidden */
+  display: none;
+
+  /* Overlay entire screen */
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  
+  /* A bit of padding around image */
+  padding: 1em;
+
+  /* Translucent background */
+  background: rgba(0, 0, 0, 0.8);
+}
+
+/* Unhide the lightbox when it's the target */
+.lightbox:target {
+  display: block;
+}
+
+.lightbox span {
+  /* Full width and height */
+  display: block;
+  width: 100%;
+  height: 100%;
+
+  /* Size and position background image */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+      </style>
 </head>
 
 <body>
@@ -213,8 +276,8 @@ div#text {
     </p>
     </br>
     <p>
-        Deseja Registrar seu Resultado Conosco?
-        <a href="https://mespper.me/Fox_Mespper/Apoio-no-Trabalho-de-Pos-Artigo-Cientifico/form4.php" target="_blank"><i><br><br>Great, entao acesse nosso Link e Registro para o nosso Trabalho</i></a>.
+        Deseja Registrar seu Resultado para o nosso Trabalho de POS?
+        <a href="#registrar"><i><br><br>Great, entao acesse nosso Link e Registre seus Dados</i></a>.
     </p>
 </br>
     <p>
@@ -226,6 +289,86 @@ div#text {
         Powered by
         <a href="https://mespper.me" target="_blank"><i>Mespper</i></a>.
     </p> -->
+
+    <form method="post" action="Roboto_Regular_Com_Registro.php"  class="lightbox" id="registrar">
+   <a href="#"> FECHAR </a><br><br>
+         Obrigado por querer Registrar seus Dados, siga as perguntas abaixo:<br>
+         <hr>
+         <br>
+         Qual a sua Idade:<br>
+         <select name="idade">
+            <option value="Nenhuma">Escolha Aqui</option>
+            <option value="Ate_15">Ate os 15</option>
+            <option value="Ate_20">Ate os 20</option>
+            <option value="Ate_30">Ate os 30</option>
+            <option value="Ate_40">Ate os 40</option>
+            <option value="Ate_50">Apartir dos 50</option>
+         </select>
+         <br>
+                  <hr>
+         Qual a sua Classe Social:<br>
+         <select name="classe">
+            <option value="Nenhuma">Escolha Aqui</option>
+            <option value="Baixa">Baixa</option>
+            <option value="Media">Media</option>
+            <option value="Alta">Alta</option>
+         </select>
+         <br>
+                  <hr>
+         Qual a sua Classe Etnia:<br>
+         <select name="etnia">
+            <option value="Nenhuma">Escolha Aqui</option>
+            <option value="Branca">Branca</option>
+            <option value="Preta">Preta</option>
+            <option value="Parda">Parda</option>
+            <option value="Amarela">Amarela</option>
+         </select>
+         <br>
+                  <hr>
+         Qual a sua Classe Nacionalidade:<br>
+         <select name="nacionalidade">
+            <option value="Nenhuma">Escolha Aqui</option>
+            <option value="Brasileira">Brasileira</option>
+            <option value="Estrangeira">Estrangeira</option>
+         </select>
+         <br>
+                  <hr>
+         Qual a sua Classe Formacao:<br>
+         <select name="formacao">
+            <option value="Nenhuma">Escolha Aqui</option>
+            <option value="Fundamental">Ensino Fundamental</option>
+            <option value="Medio">Ensino Medio</option>
+            <option value="Superior">Ensino Superior Incompleto</option>
+            <option value="Superior_Incompleto">Ensino Superior</option>
+         </select>
+         <br>
+         <hr>
+         Selecione Fielmente a Personalidade do Resultado :<br>
+         <select name="personalidade">
+            <option value="Nenhuma">Escolha Aqui</option>
+            <option value="INTJ">INTJ</option>
+            <option value="INTP">INTP</option>
+            <option value="ENTJ">ENTJ</option>
+            <option value="ENTP">ENTP</option>
+            <option value="INFJ">INFJ</option>
+            <option value="INFP">INFP</option>
+            <option value="ENFJ">ENFJ</option>
+            <option value="ENFP">ENFP</option>
+            <option value="ISTJ">ISTJ</option>
+            <option value="ISFJ">ISFJ</option>
+            <option value="ESTJ">ESTJ</option>
+            <option value="ESFJ">ESFJ</option>
+            <option value="ISTP">ISTP</option>
+            <option value="ISFP">ISFP</option>
+            <option value="ESTP">ESTP</option>
+            <option value="ESFP">ESFP</option>
+         </select>
+
+         <input type="submit" name="submit" >
+      </form>
+
+
 </div>
+
 
 </html>
