@@ -155,7 +155,7 @@ function viewResult(results){
        if(resultType == result.type){
         resultContent.innerHTML = 
             `            
-            <h2 class="result__title">Wow, entao meu tipo é: ${result.type} !</h2>
+            <h2 class="result__title">Bacana, entao meu tipo é: ${result.type} !</h2>
             <h3 class="result__character">${result.character}</h3>
             <img class="result__img" src="${result.imgPath}">
             <span class="result__explanation">${result.explanation}</span>

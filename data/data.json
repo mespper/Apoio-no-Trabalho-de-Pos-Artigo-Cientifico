@@ -2,15 +2,15 @@
     "questions" : [
         {
             "number":" 1",
-            "question": "<font color = \"red\">Questao 1:</font></br>Hoje é fim de semana ..! Se for eu❓",
+            "question": "<font color = \"red\">Questão 1:</font></br>Hoje é fim de semana? Entao eu...",
             "type": "EI",
-            "A": "Saio e encontre amigos.🏃‍♂️",
-            "B": "Gosto do fim de semana vendo maratona Netflix em casa.🏠",
+            "A": "Saio e encontro meus amigos.🏃‍♂️",
+            "B": "Gosto do fim de semana para ver maratona Netflix em casa.🏠",
             "imgPath": "./img/question/question_1.jpg"
         },
         {
             "number":" 2",
-            "question": "<font color = \"red\">Questao 2:</font></br>Alguem roubou todas as lembrancinhas. Neste momento, eu❓",
+            "question": "<font color = \"red\">Questão 2:</font></br>Alguem roubou todas as lembrancinhas. Neste momento, eu❓",
             "type": "EI",
             "A": "Devolva agora! Vou avisar ao chefe .😡",
             "B": "Acho que ele realmente estava precisando .. Eu apenas entendo e relevo.",
@@ -18,7 +18,7 @@
         },
         {
             "number":" 3",
-            "question": "<font color = \"red\">Questao 3:</font></br>Já se passaram 6 horas desde que joguei com meus amigos da Equipe de Segurança da empresa. Agora estou ❓",
+            "question": "<font color = \"red\">Questão 3:</font></br>Já se passaram 6 horas desde que joguei com meus amigos da Equipe de Segurança da empresa. Agora estou ❓",
             "type": "EI",
             "A": "Agora com o que vamos brincar? 🤩",
             "B": "Eu só quero ir para casa ... 😑",
@@ -26,7 +26,7 @@
         },
         {
             "number":" 4",
-            "question": "<font color = \"red\">Questao 4:</font></br>É hora de colocar a criatividade para trabalhar e resolver problemas.",
+            "question": "<font color = \"red\">Questão 4:</font></br>É hora de colocar a criatividade para trabalhar e resolver problemas.",
             "type": "EI",
             "A": "Pessoal vamos explorar cada nova ideal 🏃",
             "B": "Hmm, talves nao devamos abusar de muitas opcoes🧱",
@@ -34,7 +34,7 @@
         },
         {
             "number":" 5",
-            "question": "<font color = \"red\">Questao 5:</font></br>Estou voltando da festa de final de ano da empresa.",
+            "question": "<font color = \"red\">Questão 5:</font></br>Estou voltando da festa de final de ano da empresa.",
             "type": "EI",
             "A": "Eu falei demais… 😦 Sinto um pouco por ter falado demais.",
             "B": "Oh, eu deveria ter dito isso antes ...",
@@ -42,7 +42,7 @@
         },
         {
             "number": "6",
-            "question": "<font color = \"red\">Questao 6:</font></br>Vi a barra de chocolate na loja. O que pensei neste momento❓",
+            "question": "<font color = \"red\">Questão 6:</font></br>Vi a barra de chocolate na loja. O que pensei neste momento❓",
             "type": "SN",
             "A": "Chocolate é doce, crocante e delicioso!",
             "B": "Oh! Isso é o que minha colega gosta .. Isso me lembra dela. 🤔",
@@ -50,7 +50,7 @@
         },
         {
             "number": "7",
-            "question": "<font color = \"red\">Questao 7:</font></br>À medida que vou pela estrada, vejo uma nova estrada. Neste momento, eu❓",
+            "question": "<font color = \"red\">Questão 7:</font></br>À medida que vou pela estrada, vejo uma nova estrada. Neste momento, eu❓",
             "type": "SN",
             "A": "Gosto da estrada familiar! Estou voltando para o caminho que costumava fazer.🙂",
             "B": "Oh, é uma nova estrada? Eu quero ir! Vamos por uma nova estrada.😎",
@@ -58,7 +58,7 @@
         },
                 {
             "number": "8",
-            "question": "<font color = \"red\">Questao 8:</font></br>Vi uma pessoa suspeita nos arredores da empresa. Quando expliquei para o policial, eu informei que:",
+            "question": "<font color = \"red\">Questão 8:</font></br>Vi uma pessoa suspeita nos arredores da empresa. Quando expliquei para o policial, eu informei que:",
             "type": "SN",
             "A": "Ele tinha cerca de 180 cm de altura e estava usando uma máscara! 😲",
             "B": "Nao informei em detalhes ou nem informei! 😦",
@@ -66,7 +66,7 @@
         },
         {
             "number":" 9",
-            "question": "<font color = \"red\">Questao 9:</font></br>Hoje é a tão esperada festa na empresa. Vou abrir uma barraca de comida. Que type de comida devo fazer❓😍",
+            "question": "<font color = \"red\">Questão 9:</font></br>Hoje é a tão esperada festa na empresa. Vou abrir uma barraca de comida. Que type de comida devo fazer❓😍",
             "type": "SN",
             "A": "No ano passado, hambúrgueres foram um sucesso, então este ano é incondicional! O menu deste ano também é hambúrgueres! 🍔",
             "B": "Hmm .. Os hambúrgueres estavam bons no ano passado .. 🤔 Vamos experimentar outra coisa este ano! 👨‍🍳",
@@ -74,7 +74,7 @@
         },
         {
             "number": "10",
-            "question": "<font color = \"red\">Questao 10:</font></br>Estou entediado comigo mesmo, então quero assistir TV. O canal que fez meu controle remoto parar neste momento é ❓📺",
+            "question": "<font color = \"red\">Questão 10:</font></br>Estou entediado comigo mesmo, então quero assistir TV. O canal que fez meu controle remoto parar neste momento é ❓📺",
             "type": "SN",
             "A": "Documentário Realistic 100% Egyptian Civilization🕵️‍♀️",
             "B": "E se alienígenas invadirem a Terra? 👽 Filme de ficção científica🛸",
@@ -82,7 +82,7 @@
         },
         {
             "number": "11",
-            "question": "<font color = \"red\">Questao 11:</font></br>Proibi-lhe de sair, mas ela continua a implorar para que a deixe ir. Neste momento, eu❓",
+            "question": "<font color = \"red\">Questão 11:</font></br>Proibi-lhe de sair, mas ela continua a implorar para que a deixe ir. Neste momento, eu❓",
             "type": "TF",
             "A": "Absolutamente não! Não está bem! 😠 Recuse com firmeza.",
             "B": "Meu coração está fraco e eu digo, 'Sim ... só desta vez!' Me perdoe.🤫 ",
@@ -90,7 +90,7 @@
         },
                 {
             "number": "12",
-            "question": "<font color = \"red\">Questao 12:</font></br>Hoje é o dia de competicao no Clube de Natacao. Entao eu❓",
+            "question": "<font color = \"red\">Questão 12:</font></br>Hoje é o dia de competicao no Clube de Natacao. Entao eu❓",
             "type": "TF",
             "A": "Vamos competir de forma justa! 🔥",
             "B": "Vamos unir forças e vencer juntos! 🌟",
@@ -98,7 +98,7 @@
         },
                 {
             "number": "13",
-            "question": "<font color = \"red\">Questao 13:</font></br>Meu horário favorito na empresa❓",
+            "question": "<font color = \"red\">Questão 13:</font></br>Meu horário favorito na empresa❓",
             "type": "TF",
             "A": "Treinamento e Melhorias no setor de Engenharia📚",
             "B": "Treinamento Social e Recreativo🎨",
@@ -106,15 +106,15 @@
         },
         {
             "number": "14",
-            "question": "<font color = \"red\">Questao 14:</font></br>Hoje de novo o colega A e B estão se estranhando.",
+            "question": "<font color = \"red\">Questão 14:</font></br>Hoje de novo o colega A e B estão se estranhando.",
             "type": "TF",
-            "A": "O colega A teve que sair cedo hoje. Mas, o colega B está atrasado para o turno dele propositalmente, então ao cehgar eles se estranharam 🤔",
-            "B": "Huh ...O colega A disse que tinha que sair cedo hoje, mas seu colega chegou atrasado.. O colega A deve ter ficado muito triste e bravo ..🙄",
+            "A": "O colega A teve que sair mais cedo hoje e o colega B está atrasado para o turno dele propositalmente, tenho motivos para estranhar meu colega 🤔",
+            "B": "O meu colega A disse que tinha que sair cedo hoje, mas eu cheguei atrasado. O colega A deve ter ficado muito triste e bravo comigo 🙄",
             "imgPath": "./img/question/question_14.jpg"
         },
         {
             "number": "15",
-            "question": "<font color = \"red\">Questao 15:</font></br>Vamos fazer um trabalho em equipe na empresa. Neste momento, a função que meus amigos recomendaram porque achei que seria adequado para mim❓",
+            "question": "<font color = \"red\">Questão 15:</font></br>Vamos fazer um trabalho em equipe na empresa. Neste momento, a função que meus amigos recomendaram porque achei que seria adequado para mim❓",
             "type": "TF",
             "A": "Porque meu amigo é racional e metodico. 💙",
             "B": "Que tal algo social porque você é caloroso e carinhoso? 💗",
@@ -122,7 +122,7 @@
         },
                 {
             "number": "16",
-            "question": "<font color = \"red\">Questao 16:</font></br>Acho que preciso melhorar essa habilidade😥 Preciso fazer algo. Como faço isso melhor ❓",
+            "question": "<font color = \"red\">Questão 16:</font></br>Acho que preciso melhorar essa habilidade😥 Preciso fazer algo. Como faço isso melhor ❓",
             "type": "JP",
             "A": "Quanto tempo vc precisa? Quantas horas você tera para isso? Faça um plano. 🤔",
             "B": "Vamos começar! Vamos  treinar agora mesmo.🐾",
@@ -130,23 +130,23 @@
         },
         {
             "number": "17",
-            "question": "<font color = \"red\">Questao 17:</font></br>Há uma nova regra na empresa. No momento, eu...",
+            "question": "<font color = \"red\">Questão 17:</font></br>Há uma nova regra na empresa. No momento, eu...",
             "type": "JP",
-            "A": "As regras são para uma melhor empresa! Temos que segui-las 😊",
+            "A": "As regras são para melhorias para dentro empresa! Temos que segui-las 😊",
             "B": "Odeio regras! É desagradável e frustrante! 😑",
             "imgPath": "./img/question/question_17.jpg"
         },
         {
             "number": "18",
-            "question": "<font color = \"red\">Questao 18:</font></br>Fui transfeiro para outra unidade empresarial entao eu...",
+            "question": "<font color = \"red\">Questão 18:</font></br>Fui transfeiro para outra unidade empresarial entao eu...",
             "type": "JP",
-            "A": "Observe toda a estrutura da nova empresa com atenção e pense onde eu poderia atuar melhor. 🤔",
+            "A": "Wu observo toda a estrutura da nova empresa com atenção e penseo onde eu poderia atuar melhor. 🤔",
             "B": "Nao me interesso em explorar todos os cantos, apenas o essencial.",
             "imgPath": "./img/question/question_18.jpg"
         },
         {
             "number": "19",
-            "question": "<font color = \"red\">Questao 19:</font></br> Ei, é verão! 🤩 Vou passar as férias de verão no Havai. Atualmente, meu estilo de viagem é❓",
+            "question": "<font color = \"red\">Questão 19:</font></br> Ei, é verão! 🤩 Vou passar as férias de verão no Havai. Atualmente, meu estilo de viagem é❓",
             "type": "JP",
             "A": "A viagem deve ser planejada e sistemática! Gosto de viagens planejadas! 💘",
             "B": "Não é divertido viajar espontaneamente sem um plano? Gosto de viagens flexíveis! 💕",
@@ -154,7 +154,7 @@
         },
         {
             "number": "20",
-            "question": "<font color = \"red\">Questao 20:</font></br>Em se tratando da minha organizacao particular na empresa, sou reconhecido...",
+            "question": "<font color = \"red\">Questão 20:</font></br>Em se tratando da minha organizacao particular na empresa, sou reconhecido...",
             "type": "JP",
             "A": "Como você mantem as coisas organizadas assim? Recebo elogios e me sinto orgulhoso.🥴 Também sou bom em organizar!",
             "B": "O que é isso? Tudo muito espalhado isso e aquilo! Eu sou repreendido pela minha chefe.😑 Há ordem em alguma desordem ..",
